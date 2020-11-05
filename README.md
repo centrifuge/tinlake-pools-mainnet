@@ -1,4 +1,4 @@
-# tinlake-pool-metadata
+# tinlake-pools-mainnet
 This repo stores pool metadata of active Tinlake pools on Mainnet.
 
 ## Data Structure
