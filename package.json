@@ -1,0 +1,20 @@
+{
+  "name": "tinlake-pools-kovan",
+  "version": "1.0.0",
+  "description": "package containing metadata for tinlake pools (Kovan)",
+  "main": "out/index.js",
+  "scripts": {
+    "build": "mkdir -p out/ && node build.js",
+    "prepublish": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/centrifuge/tinlake-pools-kovan.git"
+  },
+  "author": "",
+  "license": "AGPL",
+  "bugs": {
+    "url": "https://github.com/centrifuge/tinlake-pools-kovan/issues"
+  },
+  "homepage": "https://github.com/centrifuge/tinlake-pools-kovan#readme"
+}
