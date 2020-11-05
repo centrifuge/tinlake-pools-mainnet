@@ -1,0 +1,46 @@
+{
+  "network": "mainnet",
+  "version": 2,
+  "addresses": {
+    "ROOT_CONTRACT": "0xf8b4ef7781ba8e1b3df6370f71d526d00aad1ee2",
+    "TINLAKE_CURRENCY": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "JUNIOR_OPERATOR": "0x244B20CB948EBA5F0f3fBabBf0B82CEFc1E559C8",
+    "JUNIOR_TRANCHE": "0xd5C9A6f250FE21D1e39D4A74E0FA3b69192Bd889",
+    "JUNIOR_TOKEN": "0xcebba0dB0834610ea34D5e4cCca62Df3382b774A",
+    "SENIOR_TRANCHE": "0x4c1bfB4e3ecBd6200358038e3F560AB6dEe9bCb6",
+    "SENIOR_TOKEN": "0xD5a8c4Ba74438AaAcf108095E7697F1d295266d8",
+    "SENIOR_OPERATOR": "0x931ab259c04300f52eee1be2f4d24aa450446de7",
+    "DISTRIBUTOR": "0x6AfC4eEf4ce63623a6FcdBd0a0e3c17d24d32ABA",
+    "ASSESSOR": "0x1abA642c1AaC9F8dA36f7DF73EdA4Ca73E054084",
+    "TITLE": "0xb2566e79F72CE620Ede1Fae1DAB3B34FB502A319",
+    "PILE": "0x95b74eF13fF280A89cE3d7bBEfc822c210e9939F",
+    "SHELF": "0x454C86Ba7e0CBd959CFa76aA2DB799F9D7a816e4",
+    "CEILING": "0xaB351D3e54c975BFA0c2edaFB6fAB03F94762111",
+    "COLLECTOR": "0x50eAb316075d4E8acA08C76aFc7dDd8CB26e87A7",
+    "THRESHOLD": "0xaB351D3e54c975BFA0c2edaFB6fAB03F94762111",
+    "PRICE_POOL": "0x7200BF697426e88F31b9446193A207fcAc1A4CbA",
+    "NFT_FEED": "0xaB351D3e54c975BFA0c2edaFB6fAB03F94762111",
+    "ACTIONS": "0x39e9b206dd1e8f9849f11e8ba6bb045e8321a239",
+    "PROXY_REGISTRY": "0xc9045c815bf123ad12ea75b9a7c579c1e05051f9"
+  },
+  "contractConfig": {
+    "JUNIOR_OPERATOR": "ALLOWANCE_OPERATOR",
+    "SENIOR_OPERATOR": "PROPORTIONAL_OPERATOR"
+  },
+  "metadata": {
+    "name": "ConsolFreight Series 1",
+    "shortName": "ConsolFreight 1",
+    "slug": "consolfreight-1",
+    "description": "ConsolFreight is launching a Tinlake pool to fund freight forwarding invoices. We are a SaaS freight forwarding technology provider that advances working capital finance to freight forwarders and collects from shippers. Our services expand from offering a trade finance marketplace to procurement of logistics services and digital contract management solutions. The ConsolFreight ecosystem currently counts on several partnerships with renowned freight forwarding networks and has secured more than 600 freight forwarders as exclusive trade lane providers.",
+    "logo": "https://ctrf-tk-ppr.s3-us-west-1.amazonaws.com/consolfreight_logo.png",
+    "website": "https://www.consolfreight.io/",
+    "details": {
+      "Asset Originator": "Consol Freight LLC",
+      "Collateral": "Freight Forwarding Invoices",
+      "Average Invoice Value": "$5,000",
+      "Maturity Date": "30 & 45 day invoices",
+      "Issuer": "ConsolFreight Pilot LLC"
+    },
+    "asset": "Invoice"
+  }
+}
