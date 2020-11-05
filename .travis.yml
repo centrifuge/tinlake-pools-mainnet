@@ -1,0 +1,17 @@
+language: node_js
+
+cache:
+  directories:
+    - node_modules
+
+jobs:
+  include:
+  - stage: build
+    script:
+      - npm run build
+  - stage: Publish patch
+    if: "(NOT type IN (pull_request)) AND (branch = main)"
+    script:
+      - echo "//registry.npmjs.org/:_authToken=\${NPM_TOKEN}" >> $HOME/.npmrc 2> /dev/null
+      - npm run publish
+

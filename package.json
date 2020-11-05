@@ -1,11 +1,13 @@
 {
-  "name": "tinlake-pools-mainnet",
-  "version": "1.0.0",
-  "description": "package containing metadata for tinlake pools (Mainnet)",
+  "name": "@centrifuge/tinlake-pools-mainnet",
+  "version": "0.0.1-develop.2",
+  "description": "Metadata for Tinlake pools (Mainnet)",
   "main": "out/index.js",
   "scripts": {
     "build": "mkdir -p out/ && node build.js",
-    "prepublish": "npm run build"
+    "prepublish": "npm run build",
+    "bump:develop": "npm version prerelease --preid develop",
+    "publish": "npm run build && npm publish --access public"
   },
   "repository": {
     "type": "git",

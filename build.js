@@ -1,22 +1,23 @@
 const fs = require('fs')
 
 function loadMetadata(folder) {
-  let pools = [];
+  let pools = []
   fs.readdirSync(folder).forEach(function(file) {
     if (file.match(/\.json$/) !== null) {
-      var name = file.replace('.js', '')
-      pools.push(require(folder + file));
+      let data = require(folder + file)
+      if (Array.isArray(data)) pools = [...pools, ...data]
+      else pools.push(data)
     }
-  });
-  return pools;
+  })
+  return pools
 }
 
 const kovanPools = __dirname + '/metadata/'
 
-const data = "module.exports = "+JSON.stringify(loadMetadata(kovanPools))+";";
+const data = "module.exports = "+JSON.stringify(loadMetadata(kovanPools))+""
 
 fs.writeFile(__dirname + '/out/index.js', data, (err) => {
     if (err) {
-        throw err;
+        throw err
     }
-});
+})
