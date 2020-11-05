@@ -23,5 +23,23 @@
     "RESERVE": "0x932344bA99BF34035B4bc25CBd98f912eBC60371",
     "ACTIONS": "0x39e9b206dd1e8f9849f11e8ba6bb045e8321a239",
     "PROXY_REGISTRY": "0xc9045c815bf123ad12ea75b9a7c579c1e05051f9"
+  },
+  "metadata": {
+    "name": "1754 Factory (Bling Series 1)",
+    "shortName": "Bling Series 1",
+    "slug": "bling-series-1",
+    "description": "1754 Factory LLC is a Delaware Series LLC created by Davoa Capital, which is founded by Fabien Dureuil. 1754 Factory will launch Bling Series 1 LLC and enter into an institutional purchase agreement to buy Bling bonds. Bling is a mobile app for French consumers that offers a cash advance system up to €100. Bling bonds are sold at par at €10,000 and they include over 125 micro loans that average €80. Bling Series 1 will launch with 30 Bling bonds and intends to steadily grow the pool.",
+    "logo": "https://raw.githubusercontent.com/centrifuge/tinlake-pools-mainnet/main/assets/1754-factory.png",
+    "website": "https://1754.finance/",
+    "details": {
+      "Asset Originator": "Bling",
+      "Issuer": "1754 Factory, LLC (Bling Series 1)",
+      "Collateral": "Payment Advances for French Consumers",
+      "Average Asset Size": "€10,000",
+      "Maturity Date": "90 days"
+    },
+    "discourseLink": "https://discourse.centrifuge.io/t/community-introduction-1754-factory/387",
+    "asset": "Payment Advances",
+    "securitizeId": "1754factory"
   }
 }
