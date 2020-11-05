@@ -1,5 +1,5 @@
 # tinlake-pool-metadata
-This repo stores pool metadata of active Tinlake pools on Kovan.
+This repo stores pool metadata of active Tinlake pools on Mainnet.
 
 ## Data Structure
 Pool metadata is stored in this repo. Use the following folder structure:
