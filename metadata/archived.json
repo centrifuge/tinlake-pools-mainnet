@@ -170,7 +170,7 @@
       "shortName": "New Silver 1",
       "slug": "new-silver-1",
       "description": "New Silver (NS) is launching a Tinlake pool to finance a portfolio of twelve to twenty four month real estate bridge loans that are extended to real estate developers. NS is a technology enabled non-bank direct lender providing real estate-backed re-financing and “renovate and rehab” financing for the United States on single-family residential and small balance commercial assets. NS primarily targets significant value-add transactions in non-rural areas in the North Eastern US.",
-      "logo": "https://raw.githubusercontent.com/centrifuge/tinlake-pool-config/master/logos/ns.png",
+      "logo": "https://raw.githubusercontent.com/centrifuge/tinlake-pools-mainnet/main/assets/ns.png",
       "website": "https://www.newsilver.com/",
       "details": {
         "Asset Originator": "New Silver Lending LLC",
@@ -264,7 +264,7 @@
       "shortName": "Harbor Trade 1",
       "slug": "harbor-trade-1",
       "description": "Harbor is a fintech firm focused on Supply Chain Finance (SCF) and working capital solutions to improve the cash conversion cycle. Harbor’s trade payable financing programs allow for early payments to suppliers so that buyers can optimize their own liquidity through trade credit. Harbor is launching Harbor Trade Credit Series One (HTC1), a Tinlake pool to finance a shipment of flight simulator hardware devices from a manufacturer in China (Ryder Industries) to the designer/distributor (Snakebyte), which will sell this product to many of the leading video game hardware retailers including Amazon, Walmart, and Gamestop. Harbor’s counterparty will be Snakebyte, which will pay in 60 days.",
-      "logo": "https://raw.githubusercontent.com/centrifuge/tinlake-pool-config/master/logos/htc.png",
+      "logo": "https://raw.githubusercontent.com/centrifuge/tinlake-pools-mainnet/main/assets/htc.png",
       "website": "https://harbortradecredit.com/",
       "discourseLink": "https://discourse.centrifuge.io/t/community-introduction-harbor-trade-credit/141",
       "details": {
