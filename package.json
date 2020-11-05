@@ -1,5 +1,5 @@
 {
-  "name": "tinlake-pools-mainnet",
+  "name": "@centrifuge/tinlake-pools-mainnet",
   "version": "1.0.0",
   "description": "package containing metadata for tinlake pools (Mainnet)",
   "main": "out/index.js",
