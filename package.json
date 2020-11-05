@@ -1,7 +1,7 @@
 {
   "name": "@centrifuge/tinlake-pools-mainnet",
   "version": "0.0.1-develop.1",
-  "description": "package containing metadata for tinlake pools (Mainnet)",
+  "description": "Metadata for Tinlake pools (Mainnet)",
   "main": "out/index.js",
   "scripts": {
     "build": "mkdir -p out/ && node build.js",

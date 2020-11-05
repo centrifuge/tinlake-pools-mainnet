@@ -13,5 +13,5 @@ jobs:
     if: "(NOT type IN (pull_request)) AND (branch = main)"
     script:
       - echo "//registry.npmjs.org/:_authToken=\${NPM_TOKEN}" >> $HOME/.npmrc 2> /dev/null
-      - npm run publish:develop
+      - npm run publish
 
