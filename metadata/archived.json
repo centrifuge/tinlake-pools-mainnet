@@ -21,11 +21,6 @@
         "issuerId": "4d11b353-a327-49ab-b45b-ae5be60697c6",
         "slug": "centrifuge"
       }
-    },
-    "archivedValues": {
-      "totalFinancedCurrency": "280930000000000000000000",
-      "financingsCount": "49",
-      "seniorInterestRate": "1000000003329528158295281582"
     }
   },
   {
@@ -49,11 +44,6 @@
         "issuerId": "4d11b353-a327-49ab-b45b-ae5be60697c6",
         "slug": "centrifuge"
       }
-    },
-    "archivedValues": {
-      "totalFinancedCurrency": "99434000000000000000000",
-      "financingsCount": "6",
-      "seniorInterestRate": "1000000003170979198376458650"
     }
   },
   {
@@ -78,11 +68,6 @@
         "issuerId": "4d11b353-a327-49ab-b45b-ae5be60697c6",
         "slug": "centrifuge"
       }
-    },
-    "archivedValues": {
-      "totalFinancedCurrency": "337495000000000000000000",
-      "financingsCount": "46",
-      "seniorInterestRate": "1000000003329528158295281582"
     }
   },
   {
@@ -108,11 +93,6 @@
         "slug": "centrifuge"
       }
     },
-    "archivedValues": {
-      "totalFinancedCurrency": "1046523000000000000000000",
-      "financingsCount": "7",
-      "seniorInterestRate": "1000000001902587519025875190"
-    }
   },
   {
     "network": "mainnet",
@@ -138,11 +118,6 @@
         "issuerId": "4d11b353-a327-49ab-b45b-ae5be60697c6",
         "slug": "centrifuge"
       }
-    },
-    "archivedValues": {
-      "totalFinancedCurrency": "357735000000000000000000",
-      "financingsCount": "13",
-      "seniorInterestRate": "1000000003678335870116692034"
     }
   },
   {
@@ -168,11 +143,6 @@
         "issuerId": "4d11b353-a327-49ab-b45b-ae5be60697c6",
         "slug": "centrifuge"
       }
-    },
-    "archivedValues": {
-      "totalFinancedCurrency": "810734000000000000000000",
-      "financingsCount": "2",
-      "seniorInterestRate": "1000000003488077118214104515"
     }
   },
   {
@@ -197,11 +167,6 @@
         "issuerId": "8297cd67-a654-45e4-a30b-42d7b8fb87c3",
         "slug": "paperchain"
       }
-    },
-    "archivedValues": {
-      "totalFinancedCurrency": "6590000000000000000000",
-      "financingsCount": "3",
-      "seniorInterestRate": "1000000002853881278538812785"
     }
   }
 ]
