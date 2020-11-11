@@ -18,7 +18,11 @@
         "Maturity Date": "1 to 12 months"
       },
       "discourseLink": "https://discourse.centrifuge.io/t/community-introduction-kickfurther/218",
-      "asset": "Inventory Finance"
+      "asset": "Inventory Finance",
+      "securitize": {
+        "issuerId": "b9cf9171-48a2-4bfb-8c02-0fc95e6f05f1",
+        "slug": "kickfurther"
+      }
     },
     "presetValues": {
       "seniorInterestRate": "1000000003170979198376458650",

@@ -320,7 +320,11 @@
         "Days Outstanding": "60-75 days",
         "Issuer": "Paperchain Series 2 LLC, Delaware"
       },
-      "asset": "Invoice"
+      "asset": "Invoice",
+      "securitize": {
+        "issuerId": "8297cd67-a654-45e4-a30b-42d7b8fb87c3",
+        "slug": "paperchain"
+      }
     }
   }
 ]
