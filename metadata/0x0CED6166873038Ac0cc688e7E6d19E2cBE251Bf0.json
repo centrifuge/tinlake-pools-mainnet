@@ -40,6 +40,9 @@
     },
     "discourseLink": "https://discourse.centrifuge.io/t/community-introduction-1754-factory/387",
     "asset": "Payment Advances",
-    "securitizeId": "1754factory"
+    "securitize": {
+      "issuerId": "fe404325-2223-498d-a4f6-d057c0fd8e8d",
+      "slug": "1754factory"
+    }
   }
 }
