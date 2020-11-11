@@ -16,7 +16,11 @@
         "Maturity Date": "30 & 45 day invoices",
         "Issuer": "ConsolFreight Pilot LLC"
       },
-      "asset": "Invoice"
+      "asset": "Invoice",
+      "securitize": {
+        "issuerId": "4d11b353-a327-49ab-b45b-ae5be60697c6",
+        "slug": "centrifuge"
+      }
     },
     "archivedValues": {
       "totalFinancedCurrency": "280930000000000000000000",
@@ -40,7 +44,11 @@
         "Maturity Date": "60 day invoices",
         "Issuer": "Paperchain Inc, Delaware"
       },
-      "asset": "Invoice"
+      "asset": "Invoice",
+      "securitize": {
+        "issuerId": "4d11b353-a327-49ab-b45b-ae5be60697c6",
+        "slug": "centrifuge"
+      }
     },
     "archivedValues": {
       "totalFinancedCurrency": "99434000000000000000000",
@@ -65,7 +73,11 @@
         "Maturity Date": "30 & 45 day invoices",
         "Issuer": "ConsolFreight Pilot LLC"
       },
-      "asset": "Invoice"
+      "asset": "Invoice",
+      "securitize": {
+        "issuerId": "4d11b353-a327-49ab-b45b-ae5be60697c6",
+        "slug": "centrifuge"
+      }
     },
     "archivedValues": {
       "totalFinancedCurrency": "337495000000000000000000",
@@ -90,7 +102,11 @@
         "Maturity Date": "12 to 24 months",
         "Issuer": "New Silver Pilot LLC"
       },
-      "asset": "Real estate bridge loans"
+      "asset": "Real estate bridge loans",
+      "securitize": {
+        "issuerId": "4d11b353-a327-49ab-b45b-ae5be60697c6",
+        "slug": "centrifuge"
+      }
     },
     "archivedValues": {
       "totalFinancedCurrency": "1046523000000000000000000",
@@ -117,7 +133,11 @@
         "Issuer": "ConsolFreight Pilot LLC",
         "Maturity Date": "1 to 12 months"
       },
-      "asset": "Invoice & Cargo"
+      "asset": "Invoice & Cargo",
+      "securitize": {
+        "issuerId": "4d11b353-a327-49ab-b45b-ae5be60697c6",
+        "slug": "centrifuge"
+      }
     },
     "archivedValues": {
       "totalFinancedCurrency": "357735000000000000000000",
@@ -143,7 +163,11 @@
         "Average Financing Size": "$300,000",
         "Maturity Date": "60 days"
       },
-      "asset": "Trade Receivables"
+      "asset": "Trade Receivables",
+      "securitize": {
+        "issuerId": "4d11b353-a327-49ab-b45b-ae5be60697c6",
+        "slug": "centrifuge"
+      }
     },
     "archivedValues": {
       "totalFinancedCurrency": "810734000000000000000000",
