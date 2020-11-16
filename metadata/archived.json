@@ -2,32 +2,6 @@
   {
     "network": "mainnet",
     "version": 2,
-    "addresses": {
-      "ROOT_CONTRACT": "0xf8b4ef7781ba8e1b3df6370f71d526d00aad1ee2",
-      "TINLAKE_CURRENCY": "0x6b175474e89094c44da98b954eedeac495271d0f",
-      "JUNIOR_OPERATOR": "0x244B20CB948EBA5F0f3fBabBf0B82CEFc1E559C8",
-      "JUNIOR_TRANCHE": "0xd5C9A6f250FE21D1e39D4A74E0FA3b69192Bd889",
-      "JUNIOR_TOKEN": "0xcebba0dB0834610ea34D5e4cCca62Df3382b774A",
-      "SENIOR_TRANCHE": "0x4c1bfB4e3ecBd6200358038e3F560AB6dEe9bCb6",
-      "SENIOR_TOKEN": "0xD5a8c4Ba74438AaAcf108095E7697F1d295266d8",
-      "SENIOR_OPERATOR": "0x931ab259c04300f52eee1be2f4d24aa450446de7",
-      "DISTRIBUTOR": "0x6AfC4eEf4ce63623a6FcdBd0a0e3c17d24d32ABA",
-      "ASSESSOR": "0x1abA642c1AaC9F8dA36f7DF73EdA4Ca73E054084",
-      "TITLE": "0xb2566e79F72CE620Ede1Fae1DAB3B34FB502A319",
-      "PILE": "0x95b74eF13fF280A89cE3d7bBEfc822c210e9939F",
-      "SHELF": "0x454C86Ba7e0CBd959CFa76aA2DB799F9D7a816e4",
-      "CEILING": "0xaB351D3e54c975BFA0c2edaFB6fAB03F94762111",
-      "COLLECTOR": "0x50eAb316075d4E8acA08C76aFc7dDd8CB26e87A7",
-      "THRESHOLD": "0xaB351D3e54c975BFA0c2edaFB6fAB03F94762111",
-      "PRICE_POOL": "0x7200BF697426e88F31b9446193A207fcAc1A4CbA",
-      "NFT_FEED": "0xaB351D3e54c975BFA0c2edaFB6fAB03F94762111",
-      "ACTIONS": "0x39e9b206dd1e8f9849f11e8ba6bb045e8321a239",
-      "PROXY_REGISTRY": "0xc9045c815bf123ad12ea75b9a7c579c1e05051f9"
-    },
-    "contractConfig": {
-      "JUNIOR_OPERATOR": "ALLOWANCE_OPERATOR",
-      "SENIOR_OPERATOR": "PROPORTIONAL_OPERATOR"
-    },
     "metadata": {
       "name": "ConsolFreight Series 1",
       "shortName": "ConsolFreight 1",
@@ -47,37 +21,17 @@
         "issuerId": "4d11b353-a327-49ab-b45b-ae5be60697c6",
         "slug": "centrifuge"
       }
+    },
+    "archivedValues": {
+      "legacyLink": "https://v2.tinlake.centrifuge.io/pool/0xf8b4ef7781ba8e1b3df6370f71d526d00aad1ee2/consolfreight-1",
+      "totalFinancedCurrency": "280930000000000000000000",
+      "financingsCount": "49",
+      "seniorInterestRate": "1000000003329528158295281582"
     }
   },
   {
     "network": "mainnet",
     "version": 2,
-    "addresses": {
-      "ROOT_CONTRACT": "0x90abc0adb789111b4b865fdb3350b14a6e78794e",
-      "TINLAKE_CURRENCY": "0x6b175474e89094c44da98b954eedeac495271d0f",
-      "JUNIOR_OPERATOR": "0x050CB3970b29Df116d52C614ce9f2e0a8728E9c9",
-      "JUNIOR_TRANCHE": "0x3b494d2363AdBf50224c0b5BFB430D5F396495e5",
-      "JUNIOR_TOKEN": "0x6301C2de9600605F9e4c7E1b6E6f6005c0f7E0d5",
-      "SENIOR_TRANCHE": "0xF49599f60BaD647b9f82b7C5eF7736Af13Ff89ac",
-      "SENIOR_TOKEN": "0xC966261FA0ca9850fe82799Fe3eCb0A8aCfC5479",
-      "SENIOR_OPERATOR": "0xbf6d1ca31e30533e6d1e6aac86340026829b79c2",
-      "DISTRIBUTOR": "0xdBAB36fc624693BeDC42fe4e3B55bc719458C64b",
-      "ASSESSOR": "0x41203B4C2b497334c01F9Ce6f88AB42bD485199d",
-      "TITLE": "0x3F38E8e4f5Eeed41798e0b7b74459BB8DecFB680",
-      "PILE": "0xA6bF7D7779383f6e078D0969F5B85B391994FCeD",
-      "SHELF": "0x3d0e477F328E48dAA315aA503a6eDf5B67f2d387",
-      "CEILING": "0xe231fAaeA039766fCbb72CbB7d70ce18F0a28b8E",
-      "COLLECTOR": "0x7AfCe9DC5DCDF4B7a51209dc8DCCC618dF4A07a9",
-      "THRESHOLD": "0xe231fAaeA039766fCbb72CbB7d70ce18F0a28b8E",
-      "PRICE_POOL": "0xb484dA3636c9579EE161D26ef68f31E2308B65c5",
-      "NFT_FEED": "0xe231fAaeA039766fCbb72CbB7d70ce18F0a28b8E",
-      "ACTIONS": "0x39e9b206dd1e8f9849f11e8ba6bb045e8321a239",
-      "PROXY_REGISTRY": "0xc9045c815bf123ad12ea75b9a7c579c1e05051f9"
-    },
-    "contractConfig": {
-      "JUNIOR_OPERATOR": "ALLOWANCE_OPERATOR",
-      "SENIOR_OPERATOR": "PROPORTIONAL_OPERATOR"
-    },
     "metadata": {
       "name": "Paperchain Pilot",
       "slug": "paperchain-pilot",
@@ -96,37 +50,17 @@
         "issuerId": "4d11b353-a327-49ab-b45b-ae5be60697c6",
         "slug": "centrifuge"
       }
+    },
+    "archivedValues": {
+      "legacyLink": "https://v2.tinlake.centrifuge.io/pool/0x90abc0adb789111b4b865fdb3350b14a6e78794e/paperchain-pilot",
+      "totalFinancedCurrency": "99434000000000000000000",
+      "financingsCount": "6",
+      "seniorInterestRate": "1000000003170979198376458650"
     }
   },
   {
     "network": "mainnet",
     "version": 2,
-    "addresses": {
-      "ROOT_CONTRACT": "0x0b985e7c5811c368528a0fc990455f4b448f7d77",
-      "TINLAKE_CURRENCY": "0x6b175474e89094c44da98b954eedeac495271d0f",
-      "JUNIOR_OPERATOR": "0xb4EF95a00EcEe451f386ed5424D01D2B3A87B378",
-      "JUNIOR_TRANCHE": "0x0e5aB6B6c64ee8F604A34C0Fc978916EEA1aC318",
-      "JUNIOR_TOKEN": "0x1fF78732d74F6DC9DC527e2fb9DF3CaDC77EAD31",
-      "SENIOR_TRANCHE": "0xaE1845A50316FB6e571c569E78338C76D715A899",
-      "SENIOR_TOKEN": "0x39a8a2a00f23917b9102C75B1783D96Ca6af9f54",
-      "SENIOR_OPERATOR": "0x6b08CEef7C3cF00dC652DFB2522F401309678b7A",
-      "DISTRIBUTOR": "0x2BF60Ac1546F6beB6824D57506829f662A9D047d",
-      "ASSESSOR": "0x78BAe79C9867BBE393C90cB13401CA1217A2fBEe",
-      "TITLE": "0xE0D6DD8EBacD5baf9B26CE769f8ec7103380897b",
-      "PILE": "0x27865916b3E6208b54EB7B3C481b3157e0Ac1B0E",
-      "SHELF": "0x56bA49EA5F0930d80D14bF077D4bBeE0B398bB06",
-      "CEILING": "0x7cDC05188B81E2cb11c6332b460233e654d8A3D4",
-      "COLLECTOR": "0x6269Bd6c9efe0F2a65780F543e6931D4b904900b",
-      "THRESHOLD": "0x7cDC05188B81E2cb11c6332b460233e654d8A3D4",
-      "PRICE_POOL": "0x3438b855Bb48D04715B43437C5F94eedC6029E81",
-      "NFT_FEED": "0x7cDC05188B81E2cb11c6332b460233e654d8A3D4",
-      "ACTIONS": "0x39e9b206dd1e8f9849f11e8ba6bb045e8321a239",
-      "PROXY_REGISTRY": "0xc9045c815bf123ad12ea75b9a7c579c1e05051f9"
-    },
-    "contractConfig": {
-      "JUNIOR_OPERATOR": "ALLOWANCE_OPERATOR",
-      "SENIOR_OPERATOR": "PROPORTIONAL_OPERATOR"
-    },
     "metadata": {
       "name": "ConsolFreight Series 2",
       "shortName": "ConsolFreight 2",
@@ -146,37 +80,17 @@
         "issuerId": "4d11b353-a327-49ab-b45b-ae5be60697c6",
         "slug": "centrifuge"
       }
+    },
+    "archivedValues": {
+      "legacyLink": "https://v2.tinlake.centrifuge.io/pool/0x0b985e7c5811c368528a0fc990455f4b448f7d77/consolfreight-2",
+      "totalFinancedCurrency": "337495000000000000000000",
+      "financingsCount": "46",
+      "seniorInterestRate": "1000000003329528158295281582"
     }
   },
   {
     "network": "mainnet",
     "version": 2,
-    "addresses": {
-      "ROOT_CONTRACT": "0xeb33ab19d17d62950b16e843005fcdda62d5f551",
-      "TINLAKE_CURRENCY": "0x6b175474e89094c44da98b954eedeac495271d0f",
-      "JUNIOR_OPERATOR": "0xa5Fa0717bBE6B9691268986F2424660C1B557Bf1",
-      "JUNIOR_TRANCHE": "0xC93728C2a5E208f012a136Ffa7F7e05F8Bd3c8f4",
-      "JUNIOR_TOKEN": "0xbe66b718cab9f47ad9e066b36b00a939f49f8c5b",
-      "SENIOR_TRANCHE": "0x05791d754eF5788532287De5a730645F2Bbcf78F",
-      "SENIOR_TOKEN": "0x18e37835077aa26dedeaca029908e54962c52cea",
-      "SENIOR_OPERATOR": "0x44B4b012d4716CC45945D4cb4d4aC25871416583",
-      "DISTRIBUTOR": "0x3e18FaD844cfc0c669feDBe3ada5173401af36D1",
-      "ASSESSOR": "0xfee2B69EdDd98397b6cbF816e805AD52bd4407c7",
-      "TITLE": "0x8Ce9C232441775308717bF9873621A27819389d4",
-      "PILE": "0x1f1eA72b9a1EDf799f27eA3a5D18262e92A845a6",
-      "SHELF": "0x5Fb8479D021E5881A4874Fdf15E549355c57B885",
-      "CEILING": "0x3fbCddeE1F5efC545828560869353287eC901c04",
-      "COLLECTOR": "0x8074b3850530F7f66e039652A8c54eec2E8B6Bec",
-      "THRESHOLD": "0x3fbCddeE1F5efC545828560869353287eC901c04",
-      "PRICE_POOL": "0x1A92818eEf8A77FBaAb027F16F16DEe67A92b56D",
-      "NFT_FEED": "0x3fbCddeE1F5efC545828560869353287eC901c04",
-      "ACTIONS": "0x39e9b206dd1e8f9849f11e8ba6bb045e8321a239",
-      "PROXY_REGISTRY": "0xc9045c815bf123ad12ea75b9a7c579c1e05051f9"
-    },
-    "contractConfig": {
-      "JUNIOR_OPERATOR": "ALLOWANCE_OPERATOR",
-      "SENIOR_OPERATOR": "ALLOWANCE_OPERATOR"
-    },
     "metadata": {
       "name": "New Silver 1",
       "shortName": "New Silver 1",
@@ -196,37 +110,17 @@
         "issuerId": "4d11b353-a327-49ab-b45b-ae5be60697c6",
         "slug": "centrifuge"
       }
+    },
+    "archivedValues": {
+      "legacyLink": "https://v2.tinlake.centrifuge.io/pool/0xeb33ab19d17d62950b16e843005fcdda62d5f551/new-silver-1",
+      "totalFinancedCurrency": "1046523000000000000000000",
+      "financingsCount": "7",
+      "seniorInterestRate": "1000000001902587519025875190"
     }
   },
   {
     "network": "mainnet",
     "version": 2,
-    "addresses": {
-      "ROOT_CONTRACT": "0xe02d16927c7f73e48dd7aef4c86fa9aaedfe8abf",
-      "TINLAKE_CURRENCY": "0x6b175474e89094c44da98b954eedeac495271d0f",
-      "JUNIOR_OPERATOR": "0x1c319555D2e8BC24747009897C58974A60fB5901",
-      "JUNIOR_TRANCHE": "0xe6defAbf835FE9FF870dB5535c659f3de3dE534b",
-      "JUNIOR_TOKEN": "0x9Cd07D22A5b0B5154EAF8E12349F013a01c0a74B",
-      "SENIOR_TRANCHE": "0x6f038b9987bAa1B0aCc2b4b96C4050e204acdDDd",
-      "SENIOR_TOKEN": "0x52dd3731369A0BFB6131125d6378dB808cCCf602",
-      "SENIOR_OPERATOR": "0xA02d3cfb69fD10eAF99aDc77304f29666CcE3dE9",
-      "DISTRIBUTOR": "0x75862B8E796A0bE99a3EC8aB726873b2DC0e45D5",
-      "ASSESSOR": "0x1f7adb00E86935a8Ba83D8D51Dc56d8CAdf7B1Da",
-      "TITLE": "0xDb189aF0664E5D4870FB3A4578A6c161d02b2a93",
-      "PILE": "0xA1044556e2cD8E0D3c143FE0F02640727a5A380b",
-      "SHELF": "0xAdaFaCda038D05E9B20845c66a6955143e3E50a7",
-      "CEILING": "0xF4846f411e8ab969Ef869a5e30dC10A68CF5D2B0",
-      "COLLECTOR": "0x24A400CC5943Ca33E81C69eBBAf105bde145eBC5",
-      "THRESHOLD": "0xF4846f411e8ab969Ef869a5e30dC10A68CF5D2B0",
-      "PRICE_POOL": "0xA63595a72Ab27c882C162c2206261109A67710CF",
-      "NFT_FEED": "0xF4846f411e8ab969Ef869a5e30dC10A68CF5D2B0",
-      "ACTIONS": "0x39e9b206dd1e8f9849f11e8ba6bb045e8321a239",
-      "PROXY_REGISTRY": "0xc9045c815bf123ad12ea75b9a7c579c1e05051f9"
-    },
-    "contractConfig": {
-      "JUNIOR_OPERATOR": "ALLOWANCE_OPERATOR",
-      "SENIOR_OPERATOR": "PROPORTIONAL_OPERATOR"
-    },
     "metadata": {
       "name": "ConsolFreight Series 3",
       "shortName": "ConsolFreight 3",
@@ -248,37 +142,17 @@
         "issuerId": "4d11b353-a327-49ab-b45b-ae5be60697c6",
         "slug": "centrifuge"
       }
+    },
+    "archivedValues": {
+      "legacyLink": "https://v2.tinlake.centrifuge.io/pool/0xe02d16927c7f73e48dd7aef4c86fa9aaedfe8abf/consolfreight-3",
+      "totalFinancedCurrency": "357735000000000000000000",
+      "financingsCount": "13",
+      "seniorInterestRate": "1000000003678335870116692034"
     }
   },
   {
     "network": "mainnet",
     "version": 2,
-    "addresses": {
-      "ROOT_CONTRACT": "0xa5caefbaa3902c3567ec2ba650a7ee4b19ea0d28",
-      "TINLAKE_CURRENCY": "0x6b175474e89094c44da98b954eedeac495271d0f",
-      "JUNIOR_OPERATOR": "0xB61aef42458943D6bA3f8E9Fb0394Bf0582B23f8",
-      "JUNIOR_TRANCHE": "0x5493598d86e2f8cbC78FacF42982746491880628",
-      "JUNIOR_TOKEN": "0xE631EFBAC8BcFD379D37311D864A08f174333f05",
-      "SENIOR_TRANCHE": "0x473bd32F890855138ed085582D80099F11aD7767",
-      "SENIOR_TOKEN": "0x75358396f4fcF60A1691527E3C96Bf47B9DAf4F6",
-      "SENIOR_OPERATOR": "0x4dECb7e9C3e4148A5d281B4522F1b22Ca77423BD",
-      "DISTRIBUTOR": "0xeF25AbCE001BE8E4c9a66038035c7C28A273EA4d",
-      "ASSESSOR": "0xAa298fD9206A4d66346124b6358fc4FC803398e5",
-      "TITLE": "0x3a577e0281bc75de94e0532c68BF01F939A2E561",
-      "PILE": "0x9c623E8864C9Fcd56a2b87826198687Ec9d03665",
-      "SHELF": "0x406504500aC3eFBa725f14b6C7ac1e0047ECf520",
-      "CEILING": "0x7b01145A8d736207ac46Bdb831e7759264b05E6b",
-      "COLLECTOR": "0xa73477D701c1cE37A8Ca6Db21C9B7a006049c867",
-      "THRESHOLD": "0x7b01145A8d736207ac46Bdb831e7759264b05E6b",
-      "PRICE_POOL": "0x73451360fB99ffbd5AeFD9b11e4717F533FaE6EA",
-      "NFT_FEED": "0x7b01145A8d736207ac46Bdb831e7759264b05E6b",
-      "ACTIONS": "0x39e9b206dd1e8f9849f11e8ba6bb045e8321a239",
-      "PROXY_REGISTRY": "0xc9045c815bf123ad12ea75b9a7c579c1e05051f9"
-    },
-    "contractConfig": {
-      "JUNIOR_OPERATOR": "ALLOWANCE_OPERATOR",
-      "SENIOR_OPERATOR": "PROPORTIONAL_OPERATOR"
-    },
     "metadata": {
       "name": "Harbor Trade Credit Series 1",
       "shortName": "Harbor Trade 1",
@@ -299,37 +173,17 @@
         "issuerId": "4d11b353-a327-49ab-b45b-ae5be60697c6",
         "slug": "centrifuge"
       }
+    },
+    "archivedValues": {
+      "legacyLink": "https://v2.tinlake.centrifuge.io/pool/0xa5caefbaa3902c3567ec2ba650a7ee4b19ea0d28/harbor-trade-1",
+      "totalFinancedCurrency": "810734000000000000000000",
+      "financingsCount": "2",
+      "seniorInterestRate": "1000000003488077118214104515"
     }
   },
   {
     "network": "mainnet",
     "version": 2,
-    "addresses": {
-      "ROOT_CONTRACT": "0x23e11b3f2cd3d73f68a4a3af436e2ed3459d0260",
-      "TINLAKE_CURRENCY": "0x6b175474e89094c44da98b954eedeac495271d0f",
-      "JUNIOR_OPERATOR": "0xC8E0c0DDD09bA807CF745FF84eF712d7e0A1B4DB",
-      "JUNIOR_TRANCHE": "0x2Df96F168A25059C445095648CeE440310bD3A12",
-      "JUNIOR_TOKEN": "0x82e904ec8b97dCDd399D00A728e1781BcBdD2Bf4",
-      "SENIOR_TRANCHE": "0xF2C43699306DAB17Ec353886272BdFB4f443aD84",
-      "SENIOR_TOKEN": "0x2F2D1a43C53A4fAe45417308401434Cb29Cb5CB5",
-      "SENIOR_OPERATOR": "0xB1319831F7BC0cbc9813eA731A1bD5684a2f0ae3",
-      "DISTRIBUTOR": "0x27b309c6870d8b4FF762d230f0eE112e1C633267",
-      "ASSESSOR": "0x6377737C28921fAb9497e2a9F30fE8147A3BDfE4",
-      "TITLE": "0x0d981ad3ae8C1F7a492d8926a72CA7Bb1634C403",
-      "PILE": "0x3c3B4b2cC7dBC4409563E74a174Ac3C4c4780DfB",
-      "SHELF": "0x3CF4DEecaD850a2B09fc2c8EA223943b57d1d4D2",
-      "CEILING": "0x67Ba167BEbED75cbc7bD6B5E9f7cB7749F5a6A50",
-      "COLLECTOR": "0x5B82276ab1083df2e92E24E4446e65733d71050C",
-      "THRESHOLD": "0x67Ba167BEbED75cbc7bD6B5E9f7cB7749F5a6A50",
-      "PRICE_POOL": "0x450c8539cac30c194A749Bbf071256eAFBb5B812",
-      "NFT_FEED": "0x67Ba167BEbED75cbc7bD6B5E9f7cB7749F5a6A50",
-      "ACTIONS": "0x39e9b206dd1e8f9849f11e8ba6bb045e8321a239",
-      "PROXY_REGISTRY": "0xc9045c815bf123ad12ea75b9a7c579c1e05051f9"
-    },
-    "contractConfig": {
-      "JUNIOR_OPERATOR": "ALLOWANCE_OPERATOR",
-      "SENIOR_OPERATOR": "PROPORTIONAL_OPERATOR"
-    },
     "metadata": {
       "name": "Paperchain Series 2",
       "shortName": "Paperchain 2",
@@ -349,6 +203,12 @@
         "issuerId": "8297cd67-a654-45e4-a30b-42d7b8fb87c3",
         "slug": "paperchain"
       }
+    },
+    "archivedValues": {
+      "legacyLink": "https://v2.tinlake.centrifuge.io/pool/0x23e11b3f2cd3d73f68a4a3af436e2ed3459d0260/paperchain-2",
+      "totalFinancedCurrency": "6590000000000000000000",
+      "financingsCount": "3",
+      "seniorInterestRate": "1000000002853881278538812785"
     }
   }
 ]
