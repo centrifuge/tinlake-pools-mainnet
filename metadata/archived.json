@@ -112,6 +112,7 @@
       }
     },
     "archivedValues": {
+      "status": "Deployed",
       "legacyLink": "https://v2.tinlake.centrifuge.io/pool/0xeb33ab19d17d62950b16e843005fcdda62d5f551/new-silver-1",
       "totalFinancedCurrency": "1046523000000000000000000",
       "financingsCount": "7",
@@ -144,6 +145,7 @@
       }
     },
     "archivedValues": {
+      "status": "Deployed",
       "legacyLink": "https://v2.tinlake.centrifuge.io/pool/0xe02d16927c7f73e48dd7aef4c86fa9aaedfe8abf/consolfreight-3",
       "totalFinancedCurrency": "357735000000000000000000",
       "financingsCount": "13",
@@ -205,6 +207,7 @@
       }
     },
     "archivedValues": {
+      "status": "Deployed",
       "legacyLink": "https://v2.tinlake.centrifuge.io/pool/0x23e11b3f2cd3d73f68a4a3af436e2ed3459d0260/paperchain-2",
       "totalFinancedCurrency": "6590000000000000000000",
       "financingsCount": "3",
