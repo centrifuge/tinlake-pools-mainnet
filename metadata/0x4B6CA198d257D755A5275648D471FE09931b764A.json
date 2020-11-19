@@ -39,6 +39,10 @@
       "Maturity Date": "24 to 36 months"
     },
     "discourseLink": "https://discourse.centrifuge.io/t/community-introduction-fortunafi/394",
-    "asset": "Revenue Based Financing"
+    "asset": "Revenue Based Financing",
+    "securitize": {
+      "issuerId": "711d4750-7ff5-4324-bfdc-91b484229bc7",
+      "slug": "fortunafi"
+    }
   }
 }
