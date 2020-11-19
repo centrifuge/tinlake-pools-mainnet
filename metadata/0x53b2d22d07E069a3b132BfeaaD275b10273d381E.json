@@ -1,0 +1,48 @@
+{
+  "network": "mainnet",
+  "version": 3,
+  "addresses": {
+    "ROOT_CONTRACT": "0x53b2d22d07E069a3b132BfeaaD275b10273d381E",
+    "TINLAKE_CURRENCY": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "TITLE": "0x07cdD617c53B07208b0371C93a02deB8d8D49C6e",
+    "PILE": "0x3eC5c16E7f2C6A80E31997C68D8Fa6ACe089807f",
+    "SHELF": "0x7d057A056939bb96D682336683C10EC89b78D7CE",
+    "COLLECTOR": "0x62f290512c690a817f47D2a4a544A5d48D1408BE",
+    "FEED": "0x41fAD1Eb242De19dA0206B0468763333BB6C2B3D",
+    "JUNIOR_OPERATOR": "0x4c4Cc6a0573db5823ECAA1d1d65EB64E5E0E5F01",
+    "SENIOR_OPERATOR": "0x230f2E19D6c2Dc0c441c2150D4dD9d67B563A60C",
+    "JUNIOR_TRANCHE": "0x7cD2a6Be6ca8fEB02aeAF08b7F350d7248dA7707",
+    "SENIOR_TRANCHE": "0xfB30B47c47E2fAB74ca5b0c1561C2909b280c4E5",
+    "JUNIOR_TOKEN": "0x961e1d4c9A7C0C3e05F17285f5FA34A66b62dBb1",
+    "SENIOR_TOKEN": "0xE4C72b4dE5b0F9ACcEA880Ad0b1F944F85A9dAA0",
+    "JUNIOR_MEMBERLIST": "0x42C2483EEE8c1Fe46C398Ac296C59674F9eb88CD",
+    "SENIOR_MEMBERLIST": "0x5B5CFD6E45F1407ABCb4BFD9947aBea1EA6649dA",
+    "ASSESSOR": "0xdA0bA5Dd06C8BaeC53Fa8ae25Ad4f19088D6375b",
+    "ASSESSOR_ADMIN": "0x46470030e1c732A9C2b541189471E47661311375",
+    "COORDINATOR": "0xFE860d06fF2a3A485922A6a029DFc1CD8A335288",
+    "RESERVE": "0x30FDE788c346aBDdb564110293B20A13cF1464B6",
+    "ACTIONS": "0x39e9b206dd1e8f9849f11e8ba6bb045e8321a239",
+    "PROXY_REGISTRY": "0xc9045c815bf123ad12ea75b9a7c579c1e05051f9"
+  },
+  "metadata": {
+    "name": "New Silver Series 2",
+    "shortName": "New Silver 2",
+    "slug": "new-silver-2",
+    "description": "Founded in 2018, New Silver is a technology enabled non-bank lender primarily focused on providing real estate-backed financing for the United States “fix and flip” sector with a concentration on single-family residential assets. Bridge loans, also referred to as fix and flip loans allow real estate investors to finance both the purchase and the construction, or in some cases, refinance an existing investment property with sufficient equity. This Tinlake pool is financing a portfolio of real estate bridge loans that are extended to real estate developers with a maturity of twelve to twenty four months.",
+    "logo": "https://raw.githubusercontent.com/centrifuge/tinlake-pools-mainnet/main/assets/ns.png",
+    "website": "https://www.newsilver.com/",
+    "details": {
+      "Asset Originator": "New Silver Lending LLC",
+      "Collateral": "Real estate bridge loans",
+      "Average Loan Size": "$190,000",
+      "Maturity Date": "12 to 24 months",
+      "Issuer": "NS Pool LLC"
+    },
+    "discourseLink": "https://discourse.centrifuge.io/t/community-introduction-new-silver/401",
+    "asset": "Real estate bridge loans",
+    "securitize": {
+      "issuerId": "cea022e7-6dbe-4262-9c8e-c4724e321b2c",
+      "slug": "newsilver"
+    }
+  }
+}
