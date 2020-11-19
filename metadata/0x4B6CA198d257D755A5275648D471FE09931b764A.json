@@ -1,0 +1,48 @@
+{
+  "network": "mainnet",
+  "version": 3,
+  "addresses": {
+    "ROOT_CONTRACT": "0x4B6CA198d257D755A5275648D471FE09931b764A",
+    "TINLAKE_CURRENCY": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "TITLE": "0x9E0c12ab26CC7939Efe63f307Db4fF8E4D29EC82",
+    "PILE": "0x11C14AAa42e361Cf3500C9C46f34171856e3f657",
+    "SHELF": "0x9C3a54AC3af2e1FC9ee49e991a0452629C9bca64",
+    "COLLECTOR": "0x459f12aE89A956E245800f692a1510F0d01e3d48",
+    "FEED": "0xcAB9ed8e5EF4607A97f4e22Ad1D984ADB93ce890",
+    "JUNIOR_OPERATOR": "0x0B5Fb20BF5381A92Dd026208f4177a2Af85DACB9",
+    "SENIOR_OPERATOR": "0x3247f0d72303567A313FC87d04E533a845d1ba5A",
+    "JUNIOR_TRANCHE": "0xc3e80961386D0C52C0988c12C6665d3AB2E04f0D",
+    "SENIOR_TRANCHE": "0xCebdAb943781878627fd04e8E0641Ee73941B1C5",
+    "JUNIOR_TOKEN": "0xf2dEB8F74C5dDA88CCD606ea88cCD3fC9FC98a1F",
+    "SENIOR_TOKEN": "0x44718d306a8Fa89545704Ae38B2B97c06bF11FC1",
+    "JUNIOR_MEMBERLIST": "0x3FBD11B1f91765B32BD1231922F1E32f6bdfCB1c",
+    "SENIOR_MEMBERLIST": "0x6e79770F8B57cAd29D29b1884563556B31E792b0",
+    "ASSESSOR": "0x4e7D665FB7747747bd770CB35F604412249AE8bC",
+    "ASSESSOR_ADMIN": "0x71d8ec8bE0d8C694f0c177C9aCb531B1D9076D08",
+    "COORDINATOR": "0xD7965D41c37B9F8691F0fe83878f6FFDbCb90996",
+    "RESERVE": "0x78aF512B18C0893e77138b02B1393cd887816EDF",
+    "ACTIONS": "0x39e9b206dd1e8f9849f11e8ba6bb045e8321a239",
+    "PROXY_REGISTRY": "0xc9045c815bf123ad12ea75b9a7c579c1e05051f9"
+  },
+  "metadata": {
+    "name": "Fortunafi Series 1",
+    "shortName": "Fortunafi 1",
+    "slug": "fortunafi-1",
+    "description": "Fortunafi Asset Management Pool 1 is a pool of Revenue Based Financing (RBF) Assets. Revenue Based Assets or Revenue Based Financing (RBF) is a type of financial capital provided to small or growing businesses in which investors inject capital into a business in return for a fixed percentage of ongoing gross revenues, with payment increases and decreases based on business revenues, typically measured as monthly revenue. Usually the returns to the investor continue until the initial capital amount, plus a multiple (also known as a cap) is repaid.",
+    "logo": "https://raw.githubusercontent.com/centrifuge/tinlake-pools-mainnet/main/assets/fortunafi.png",
+    "website": "https://www.fortunafi.com/",
+    "details": {
+      "Asset Originator": "Fortunafi Asset Management",
+      "Issuer": "Fortunafi Asset Management Pool 1",
+      "Collateral": "Revenue Based Financing",
+      "Average Loan Size": "$150,000",
+      "Maturity Date": "24 to 36 months"
+    },
+    "discourseLink": "https://discourse.centrifuge.io/t/community-introduction-fortunafi/394",
+    "asset": "Revenue Based Financing",
+    "securitize": {
+      "issuerId": "711d4750-7ff5-4324-bfdc-91b484229bc7",
+      "slug": "fortunafi"
+    }
+  }
+}
