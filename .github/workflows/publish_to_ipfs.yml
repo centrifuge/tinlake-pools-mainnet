@@ -30,6 +30,7 @@ jobs:
       with:
         tag_name: ${{ github.ref }}
         release_name: Release ${{ github.ref }}
+        body: IPFS Hash: {{ steps.upload_to_ipfs.outputs.hash }}
         draft: false
         prerelease: false
     - name: Upload Release Asset
