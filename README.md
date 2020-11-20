@@ -1,6 +1,8 @@
 # tinlake-pools-mainnet
 This repo stores pool metadata of active Tinlake pools on Mainnet.
 
+Releases are automatically published to IPFS and on Github.
+
 ## Data Structure
 Pool metadata is stored in this repo. Use the following folder structure:
 
