@@ -12,12 +12,24 @@ function loadMetadata(folder) {
   return pools
 }
 
-const kovanPools = __dirname + '/metadata/'
-
-const data = "module.exports = "+JSON.stringify(loadMetadata(kovanPools))+""
-
-fs.writeFile(__dirname + '/out/index.js', data, (err) => {
+const poolMetadata = __dirname + '/metadata/'
+const pools = loadMetadata(poolMetadata)
+const poolModule = "module.exports = "+JSON.stringify(pools)
+fs.writeFile(__dirname + '/out/index.js', poolModule, (err) => {
     if (err) {
         throw err
     }
 })
+
+
+const poolList = JSON.stringify(pools.reduce((l, p) => {
+    if (p.addresses) l[p.addresses['ROOT_CONTRACT'].toLowerCase()] = p
+    return l
+},{}))
+
+fs.writeFile(__dirname + '/out/pools.json', poolList, (err) => {
+    if (err) {
+        throw err
+    }
+})
+
