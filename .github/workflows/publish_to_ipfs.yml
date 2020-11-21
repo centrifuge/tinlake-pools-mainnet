@@ -36,8 +36,8 @@ jobs:
         tag_name: ${{ steps.vars.outputs.sha_short }}
         release_name: Release ${{ steps.vars.outputs.sha_short }}
         body: |
-          IPFS Hash: {{ steps.upload_to_ipfs.outputs.hash }}
-          https://cloudflare-ipfs.com/ipfs/{{ steps.upload_to_ipfs.outputs.hash }}
+          IPFS Hash: ${{ steps.upload_to_ipfs.outputs.hash }}
+          https://cloudflare-ipfs.com/ipfs/${{ steps.upload_to_ipfs.outputs.hash }}
         draft: false
         prerelease: false
     - name: Upload Release Asset
