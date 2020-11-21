@@ -31,6 +31,7 @@ jobs:
         tag_name: ${{ github.ref }}
         release_name: Release ${{ github.sha }}
         body: IPFS Hash: {{ steps.upload_to_ipfs.outputs.hash }}
+          https://cloudflare-ipfs.com/ipfs/{{ steps.upload_to_ipfs.outputs.hash }}
         draft: false
         prerelease: false
     - name: Upload Release Asset
