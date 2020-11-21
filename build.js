@@ -23,7 +23,7 @@ fs.writeFile(__dirname + '/out/index.js', poolModule, (err) => {
 
 
 const poolList = JSON.stringify(pools.reduce((l, p) => {
-    if (p.addresses) l[p.addresses['ROOT_CONTRACT'].toLowerCase()] = p
+    if (p.addresses) l[p.addresses['ROOT_CONTRACT']] = p
     return l
 },{}))
 
