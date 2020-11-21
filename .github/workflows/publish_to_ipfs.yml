@@ -15,6 +15,7 @@ jobs:
         node-version: 12.x
     - run: npm run prepublish
     - name: Upload to IPFS
+      id: upload_to_ipfs
       uses: aquiladev/ipfs-action@v0.1.5
       with:
         path: ./out/pools.json
@@ -22,14 +23,18 @@ jobs:
         pinataPinName: mainnet-pools-$GITHUB_SHA
         pinataKey: ${{ secrets.PINATA_KEY }}
         pinataSecret: ${{ secrets.PINATA_SECRET }}
+    - id: vars
+      shell: bash
+      run: |
+        echo "::set-output name=sha_short::$(git rev-parse --short HEAD)"
     - name: Create Release
       id: create_release
       uses: actions/create-release@v1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        tag_name: ${{ github.ref }}
-        release_name: Release ${{ github.sha }}
+        tag_name: ${{ steps.vars.sha_short }}
+        release_name: Release ${{ steps.vars.sha_short }}
         body: |
           IPFS Hash: {{ steps.upload_to_ipfs.outputs.hash }}
           https://cloudflare-ipfs.com/ipfs/{{ steps.upload_to_ipfs.outputs.hash }}
