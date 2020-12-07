@@ -1,6 +1,6 @@
 {
   "name": "@centrifuge/tinlake-pools-mainnet",
-  "version": "0.0.1-develop.13",
+  "version": "0.0.1-develop.14",
   "description": "Metadata for Tinlake pools (Mainnet)",
   "main": "out/index.js",
   "scripts": {
