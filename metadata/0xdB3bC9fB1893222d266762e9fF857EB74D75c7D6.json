@@ -32,12 +32,12 @@
     "logo": "https://ctrf-tk-ppr.s3-us-west-1.amazonaws.com/consolfreight_logo.png",
     "website": "https://www.consolfreight.io/",
     "details": {
-      "Asset Originator": "Consol Freight LLC, a Florida limited liability company",
+      "Asset Originator": "Consol Freight LLC",
       "Collateral": "Cargo & Freight Forwarding Invoices",
       "Average Cargo Value": "$80,000",
       "Average Freight Invoice Value": "$5,000",
       "Days Outstanding": "30 to 90 days",
-      "Issuer": "ConsolFreight Pilot LLC (Series 4), a Delaware series limited liability company"
+      "Issuer": "ConsolFreight Pilot LLC (Series 4)"
     },
     "discourseLink": "https://discourse.centrifuge.io/t/community-introduction-consolfreight/333",
     "asset": "Invoice & Cargo",
