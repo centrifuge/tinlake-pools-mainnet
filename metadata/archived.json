@@ -7,7 +7,9 @@
       "shortName": "ConsolFreight 1",
       "slug": "consolfreight-1",
       "description": "ConsolFreight is launching a Tinlake pool to fund freight forwarding invoices. We are a SaaS freight forwarding technology provider that advances working capital finance to freight forwarders and collects from shippers. Our services expand from offering a trade finance marketplace to procurement of logistics services and digital contract management solutions. The ConsolFreight ecosystem currently counts on several partnerships with renowned freight forwarding networks and has secured more than 600 freight forwarders as exclusive trade lane providers.",
-      "logo": "https://ctrf-tk-ppr.s3-us-west-1.amazonaws.com/consolfreight_logo.png",
+      "media": {
+        "logo": "https://ctrf-tk-ppr.s3-us-west-1.amazonaws.com/consolfreight_logo.png"
+      },
       "website": "https://www.consolfreight.io/",
       "details": {
         "Asset Originator": "Consol Freight LLC",
@@ -36,7 +38,9 @@
       "name": "Paperchain Pilot",
       "slug": "paperchain-pilot",
       "description": "Paperchain is launching a Tinlake pool to fund music streaming revenues. We provide an easy and fast way for artists and media companies to access their streaming revenue. Operating at the intersection of media, finance, and technology, we connect to the largest media streaming platforms and offer creators a non-dilutive funding model via innovative use of media data streams & investment products. We work with Merlin, a collective licensing aggregator that represents thousands of labels worldwide negotiating licensing agreements with leading streaming platforms such as Spotify.",
-      "logo": "https://storage.googleapis.com/tinlake/pc.png",
+      "media": {
+        "logo": "https://storage.googleapis.com/tinlake/pc.png"
+      },
       "website": "https://www.paperchain.io/",
       "details": {
         "Asset Originator": "Paperchain Inc.",
@@ -66,7 +70,9 @@
       "shortName": "ConsolFreight 2",
       "slug": "consolfreight-2",
       "description": "ConsolFreight is launching a Tinlake pool to fund freight forwarding invoices. We are a SaaS freight forwarding technology provider that advances working capital finance to freight forwarders and collects from shippers. Our services expand from offering a trade finance marketplace to procurement of logistics services and digital contract management solutions. The ConsolFreight ecosystem currently counts on several partnerships with renowned freight forwarding networks and has secured more than 600 freight forwarders as exclusive trade lane providers.",
-      "logo": "https://ctrf-tk-ppr.s3-us-west-1.amazonaws.com/consolfreight_logo.png",
+      "media": {
+        "logo": "https://ctrf-tk-ppr.s3-us-west-1.amazonaws.com/consolfreight_logo.png"
+      },
       "website": "https://www.consolfreight.io/",
       "details": {
         "Asset Originator": "Consol Freight LLC",
@@ -96,7 +102,9 @@
       "shortName": "New Silver 1",
       "slug": "new-silver-1",
       "description": "New Silver (NS) is launching a Tinlake pool to finance a portfolio of twelve to twenty four month real estate bridge loans that are extended to real estate developers. NS is a technology enabled non-bank direct lender providing real estate-backed re-financing and “renovate and rehab” financing for the United States on single-family residential and small balance commercial assets. NS primarily targets significant value-add transactions in non-rural areas in the North Eastern US.",
-      "logo": "https://raw.githubusercontent.com/centrifuge/tinlake-pools-mainnet/main/assets/ns.png",
+      "media": {
+        "logo": "https://raw.githubusercontent.com/centrifuge/tinlake-pools-mainnet/main/assets/ns.png"
+      },
       "website": "https://www.newsilver.com/",
       "details": {
         "Asset Originator": "New Silver Lending LLC",
@@ -127,7 +135,9 @@
       "shortName": "ConsolFreight 3",
       "slug": "consolfreight-3",
       "description": "ConsolFreight is launching a Tinlake pool to fund a combined pool of trade finance transactions and freight forwarding invoices. We are a Saas freight forwarding technology provider that advances working capital finance to stakeholders involved in international trading of goods and services. For the trade finance transactions we are advancing capital to shippers and collecting from the buyers. When financing freight forwarding invoices we will advance funds to freight forwarders and collect from shippers. Our services expand from offering a trade finance marketplace to procurement of logistics services and digital contract management solutions. The ConsolFreight ecosystem currently counts on several partnerships with renowned freight forwarding networks and has secured more than 600 freight forwarders as exclusive trade lane providers.",
-      "logo": "https://ctrf-tk-ppr.s3-us-west-1.amazonaws.com/consolfreight_logo.png",
+      "media": {
+        "logo": "https://ctrf-tk-ppr.s3-us-west-1.amazonaws.com/consolfreight_logo.png"
+      },
       "website": "https://www.consolfreight.io/",
       "details": {
         "Asset Originator": "Consol Freight LLC",
@@ -160,7 +170,9 @@
       "shortName": "Harbor Trade 1",
       "slug": "harbor-trade-1",
       "description": "Harbor is a fintech firm focused on Supply Chain Finance (SCF) and working capital solutions to improve the cash conversion cycle. Harbor’s trade payable financing programs allow for early payments to suppliers so that buyers can optimize their own liquidity through trade credit. Harbor is launching Harbor Trade Credit Series One (HTC1), a Tinlake pool to finance a shipment of flight simulator hardware devices from a manufacturer in China (Ryder Industries) to the designer/distributor (Snakebyte), which will sell this product to many of the leading video game hardware retailers including Amazon, Walmart, and Gamestop. Harbor’s counterparty will be Snakebyte, which will pay in 60 days.",
-      "logo": "https://raw.githubusercontent.com/centrifuge/tinlake-pools-mainnet/main/assets/htc.png",
+      "media": {
+        "logo": "https://raw.githubusercontent.com/centrifuge/tinlake-pools-mainnet/main/assets/htc.png"
+      },
       "website": "https://harbortradecredit.com/",
       "discourseLink": "https://discourse.centrifuge.io/t/community-introduction-harbor-trade-credit/141",
       "details": {
@@ -191,7 +203,9 @@
       "shortName": "Paperchain 2",
       "slug": "paperchain-2",
       "description": "Paperchain is launching the second Tinlake pool to fund music streaming invoices. We provide an easy and fast way for artists and media companies to access their streaming revenue. Operating at the intersection of media, finance, and technology, Paperchain connects to the largest media streaming platforms and offers creators a non-dilutive funding model via innovative use of media data streams & investment products. We work with Merlin, a collective licensing aggregator that represents thousands of labels worldwide negotiating licensing agreements with leading streaming platforms such as Spotify.",
-      "logo": "https://storage.googleapis.com/tinlake/pc.png",
+      "media": {
+        "logo": "https://storage.googleapis.com/tinlake/pc.png"
+      },
       "website": "https://www.paperchain.io/",
       "details": {
         "Asset Originator": "Paperchain Pilot LLC.",

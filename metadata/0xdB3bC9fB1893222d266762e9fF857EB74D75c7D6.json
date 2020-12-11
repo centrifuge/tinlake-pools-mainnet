@@ -29,7 +29,10 @@
     "shortName": "ConsolFreight 4",
     "slug": "consolfreight-4",
     "description": "ConsolFreight is launching a Tinlake pool to fund a combined pool of trade finance transactions and freight forwarding invoices. We are a Saas freight forwarding technology provider that advances working capital finance to stakeholders involved in international trading of goods and services. For the trade finance transactions we are advancing capital to shippers and collecting from the buyers. When financing freight forwarding invoices we will advance funds to freight forwarders and collect from shippers. Our services expand from offering a trade finance marketplace to procurement of logistics services and digital contract management solutions. The ConsolFreight ecosystem currently counts several partnerships with renowned freight forwarding networks and has secured more than 600 freight forwarders as exclusive trade lane providers.",
-    "logo": "https://ctrf-tk-ppr.s3-us-west-1.amazonaws.com/consolfreight_logo.png",
+    "media": {
+      "logo": "https://storage.googleapis.com/tinlake/pool-media/consolfreight-4/logo.png",
+      "icon": "https://storage.googleapis.com/tinlake/pool-media/consolfreight-4/icon.svg"
+    },
     "website": "https://www.consolfreight.io/",
     "details": {
       "Asset Originator": "Consol Freight LLC",
