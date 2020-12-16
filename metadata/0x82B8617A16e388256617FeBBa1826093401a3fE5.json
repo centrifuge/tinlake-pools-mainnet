@@ -30,10 +30,10 @@
     "slug": "paperchain-3",
     "description": "Paperchain is launching the third Tinlake pool to fund music streaming invoices. We provide an easy and fast way for artists and media companies to access their streaming revenue. Operating at the intersection of media, finance, and technology, Paperchain connects to the largest media streaming platforms and offers creators a non-dilutive funding model via innovative use of media data streams & investment products. We work with Merlin, a collective licensing aggregator that represents thousands of labels worldwide negotiating licensing agreements with leading streaming platforms such as Spotify.",
     "media": {
-      "logo": "https://storage.googleapis.com/tinlake/pool-media/new-silver-2/logo.png",
-      "icon": "https://storage.googleapis.com/tinlake/pool-media/new-silver-2/icon.svg"
+      "logo": "https://storage.googleapis.com/tinlake/pool-media/paperchain/logo.svg",
+      "icon": "https://storage.googleapis.com/tinlake/pool-media/paperchain/icon.svg"
     },
-    "website": "https://www.newsilver.com/",
+    "website": "https://paperchain.io/",
     "details": {
       "Asset Originator": "Paperchain Pilot LLC",
       "Collateral": "Music Streaming Invoices from Spotify",
