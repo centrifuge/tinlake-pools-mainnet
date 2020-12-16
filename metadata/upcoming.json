@@ -16,7 +16,9 @@
       "Issuer": "Series 2 of Harbor Trade Credit Series LLC",
       "Collateral": "Trade Receivables",
       "Average Invoice Size": "$100,000",
-      "Average Maturity Date": "90 days"
+      "Average Maturity Date": "90 days",
+      "DROP APR": "11.00%",
+      "Min TIN Risk Buffer": "10.00%"
     },
     "discourseLink": "https://discourse.centrifuge.io/t/community-introduction-harbor-trade-credit/141",
     "asset": "Trade Receivables",
