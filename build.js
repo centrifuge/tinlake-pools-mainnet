@@ -24,6 +24,7 @@ fs.writeFile(__dirname + '/out/index.js', poolModule, (err) => {
 
 const poolList = JSON.stringify(pools.reduce((l, p) => {
     if (p.addresses) l[p.addresses['ROOT_CONTRACT']] = p
+    if (!p.addresses) l[p.metadata.slug] = p
     return l
 },{}))
 
