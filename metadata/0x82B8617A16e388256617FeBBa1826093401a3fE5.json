@@ -1,0 +1,50 @@
+{
+  "network": "mainnet",
+  "version": 3,
+  "addresses": {
+    "ROOT_CONTRACT": "0x82B8617A16e388256617FeBBa1826093401a3fE5",
+    "TINLAKE_CURRENCY": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "TITLE": "0x23C67BF183adc404ca07f79462D8E90A2975aD0a",
+    "PILE": "0x37c8B836eA1b89b7cC4cFdDed4C4fbC454CcC679",
+    "SHELF": "0x67C1d2552a0cE8572AAfFD0c9664EeA7edbBCeF3",
+    "COLLECTOR": "0x14d68678eADf7781F52F675BFc782A2C966249d3",
+    "FEED": "0xc61e65114CbD5508e31fd755A49A817798C132cb",
+    "JUNIOR_OPERATOR": "0x04CA4eb16D88084C88979962C48D943CbF6Dcf97",
+    "SENIOR_OPERATOR": "0xEa9988207B63232A46F50019f6Cd28dd65a5c40e",
+    "JUNIOR_TRANCHE": "0x7008f357D1048a319fB8DfF239171E3cfCead62A",
+    "SENIOR_TRANCHE": "0x4588529a2e7ffc718ea4fBc82149645020c86C19",
+    "JUNIOR_TOKEN": "0xFa0576268C920f4A7EC6f0299d696D3c29a868d7",
+    "SENIOR_TOKEN": "0x94E64afed0dB0A5E6FDb8f53efea3475E7760Dfd",
+    "JUNIOR_MEMBERLIST": "0xA768ACDe6B95720ba926E4a615ACA733e51F6FD1",
+    "SENIOR_MEMBERLIST": "0x1770129cd23C680C1c52C8D3a9c3D527B73CE1de",
+    "ASSESSOR": "0x966F53cb928ab361714AF16E301e82fDf01bCbb9",
+    "ASSESSOR_ADMIN": "0x516679068375b3a15E7a10347970FC14a6d3997b",
+    "COORDINATOR": "0x99f36Ea3c21bf0c3ed3D53bFdB9f7D8a28A894a9",
+    "RESERVE": "0xB873c152C06be54C704F891E37A7e3B554514964",
+    "ACTIONS": "0x39e9b206dd1e8f9849f11e8ba6bb045e8321a239",
+    "PROXY_REGISTRY": "0xc9045c815bf123ad12ea75b9a7c579c1e05051f9"
+  },
+  "metadata": {
+    "name": "Paperchain Series 3",
+    "shortName": "Paperchain 3",
+    "slug": "paperchain-3",
+    "description": "Paperchain is launching the third Tinlake pool to fund music streaming invoices. We provide an easy and fast way for artists and media companies to access their streaming revenue. Operating at the intersection of media, finance, and technology, Paperchain connects to the largest media streaming platforms and offers creators a non-dilutive funding model via innovative use of media data streams & investment products. We work with Merlin, a collective licensing aggregator that represents thousands of labels worldwide negotiating licensing agreements with leading streaming platforms such as Spotify.",
+    "media": {
+      "logo": "https://storage.googleapis.com/tinlake/pool-media/new-silver-2/logo.png",
+      "icon": "https://storage.googleapis.com/tinlake/pool-media/new-silver-2/icon.svg"
+    },
+    "website": "https://www.newsilver.com/",
+    "details": {
+      "Asset Originator": "Paperchain Pilot LLC",
+      "Collateral": "Music Streaming Invoices from Spotify",
+      "Average Invoice Size": "$25,000",
+      "Maturity Date": "45-60 days",
+      "Issuer": "Paperchain Series 3 LLC, Delaware"
+    },
+    "asset": "Music Streaming Invoices",
+    "securitize": {
+      "issuerId": "8297cd67-a654-45e4-a30b-42d7b8fb87c3",
+      "slug": "paperchain"
+    }
+  }
+}
