@@ -1,0 +1,52 @@
+{
+  "network": "mainnet",
+  "version": 3,
+  "addresses": {
+    "ROOT_CONTRACT": "0xfc2950dD337ca8496C18dfc0256Fb905A7E7E5c6",
+    "TINLAKE_CURRENCY": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "TITLE": "0x98421Ed8C66f12F924749639Cc840E95Ab75bDFb",
+    "PILE": "0xdB07B21109117208a0317adfbed484C87c9c2aFf",
+    "SHELF": "0xC42CfB07bC1140f9A615bD63c4fFAE5F8260Ab22",
+    "COLLECTOR": "0xDbcAcB7f7bC004e754dA3158F8F24168E8387386",
+    "FEED": "0x00cD3AE59fdbd375A187BF8074DB59eDAF766C19",
+    "JUNIOR_OPERATOR": "0xD6D1aD0CD1844C6Ab7C8E50f56B31551cF162711",
+    "SENIOR_OPERATOR": "0x32CA2ABf0c62BcC46D4231FCDFe9f3757de202A6",
+    "JUNIOR_TRANCHE": "0x0138EeF60B3d1EA31e74c5C074b1012b840FA15a",
+    "SENIOR_TRANCHE": "0x68d2e0c8166d746f7Fd3a6Bad5bEF05c9EF69b9F",
+    "JUNIOR_TOKEN": "0xE5300B24bc08Bc62D25e21f48ccB05f6e531E812",
+    "SENIOR_TOKEN": "0x61690DEaa5Ad0f501f377d2384C8645E80e1f642",
+    "JUNIOR_MEMBERLIST": "0xfaEea82d9Db2737B959e3BeF985A91c90abC9486",
+    "SENIOR_MEMBERLIST": "0x58e211AFED5843813dD09F185A0eb0bdb6BbCa72",
+    "ASSESSOR": "0x95bC79d2Aa5147108C285d71CFfB842B7A781a96",
+    "ASSESSOR_ADMIN": "0x1cdece6B446d674B36F39a1Abd6CD46B49065e6A",
+    "COORDINATOR": "0x9E1319202d6CB1c300fA9d1ec45DF98733192aB3",
+    "RESERVE": "0x729e12cDc0190A2e4Ab4401bca4C16132d75AdC5",
+    "ACTIONS": "0x39e9b206dd1e8f9849f11e8ba6bb045e8321a239",
+    "PROXY_REGISTRY": "0xc9045c815bf123ad12ea75b9a7c579c1e05051f9"
+  },
+  "metadata": {
+    "name": "databased.FINANCE 1",
+    "shortName": "databased.FINANCE 1",
+    "slug": "databased-finance-1",
+    "media": {
+      "logo": "https://storage.googleapis.com/tinlake/pool-media/databased-finance/logo.png",
+      "icon": "https://storage.googleapis.com/tinlake/pool-media/databased-finance/icon.svg",
+      "drop": "https://storage.googleapis.com/tinlake/pool-media/databased-finance/drop.svg",
+      "tin": "https://storage.googleapis.com/tinlake/pool-media/databased-finance/tin.svg"
+    },
+    "description": "databased.FINANCE is launching its first Tinlake pool to purchase verified inventory from Amazon Sellers. We are an inventory technology provider that buys from Amazon Sellers who have a Sales History with Amazon and use Fulfilled By Amazon for managing their prepositioned inventory. We purchase their prepositioned inventory and charge a Limited Exclusive Rights Sales fee in 30 day cycles so they can sell it on our behalf. We use a third party Oracle service, Track.one Limited to access the account of the Amazon Seller and verify both historic price, sales volumes, and the current inventory holdings of the brand. This allows us to mark-to-market the value of the inventory. We call this type of finance databased.FINANCE",
+    "website": "https://www.databased.finance/",
+    "details": {
+      "Asset Originator": "databased.FINANCE Limited",
+      "Collateral": "Branded Inventory Financing",
+      "Average Loan Size": "Increasing from an initial $26,000",
+      "Average Maturity": "Rolling 30 days",
+      "Issuer": "databased.FINANCE Limited"
+    },
+    "asset": "Branded Inventory Financing",
+    "securitize": {
+      "issuerId": "dbd432d2-a88b-4067-9474-9fba6b870c80",
+      "slug": "databased.finance"
+    }
+  }
+}
