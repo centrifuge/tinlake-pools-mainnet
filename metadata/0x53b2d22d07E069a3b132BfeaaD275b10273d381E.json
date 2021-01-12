@@ -31,7 +31,9 @@
     "description": "Founded in 2018, New Silver is a technology enabled non-bank lender primarily focused on providing real estate-backed financing for the United States “fix and flip” sector with a concentration on single-family residential assets. Bridge loans, also referred to as fix and flip loans allow real estate investors to finance both the purchase and the construction, or in some cases, refinance an existing investment property with sufficient equity. This Tinlake pool is financing a portfolio of real estate bridge loans that are extended to real estate developers with a maturity of twelve to twenty four months.",
     "media": {
       "logo": "https://storage.googleapis.com/tinlake/pool-media/new-silver-2/logo.png",
-      "icon": "https://storage.googleapis.com/tinlake/pool-media/new-silver-2/icon.svg"
+      "icon": "https://storage.googleapis.com/tinlake/pool-media/new-silver-2/icon.svg",
+      "drop": "https://storage.googleapis.com/tinlake/pool-media/new-silver-2/drop.svg",
+      "tin": "https://storage.googleapis.com/tinlake/pool-media/new-silver-2/tin.svg"
     },
     "website": "https://www.newsilver.com/",
     "details": {
