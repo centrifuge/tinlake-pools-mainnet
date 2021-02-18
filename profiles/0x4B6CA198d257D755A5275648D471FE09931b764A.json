@@ -24,11 +24,11 @@
   "issuer": {
     "name": "Fortunafi",
     "email": "ir@fortunafi.com",
-    "usBased": true
+    "restrictedCountryCodes": ["NL"],
+    "minInvestmentCurrency": "10000000000000000000000",
+    "nonSolicitationNotice": "non-us"
   },
   "bot": {
     "channelId": "C01LW6D6JG7"
-  },
-  "restrictedCountryCodes": ["NL"],
-  "minInvestmentCurrency": 10000000000000000000000
+  }
 }
