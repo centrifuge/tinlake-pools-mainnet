@@ -24,7 +24,7 @@
   "issuer": {
     "name": "Fortunafi",
     "email": "ir@fortunafi.com",
-    "restrictedCountryCodes": ["NL"],
+    "restrictedCountryCodes": [],
     "minInvestmentCurrency": "10000000000000000000000",
     "nonSolicitationNotice": "non-us"
   },
