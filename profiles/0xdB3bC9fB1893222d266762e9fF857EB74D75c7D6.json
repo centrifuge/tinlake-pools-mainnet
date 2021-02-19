@@ -3,27 +3,21 @@
     {
       "name": "DROP Subscription Agreement",
       "provider": "docusign",
-      "providerTemplateId": "309a32bd-8c37-450e-ab9a-59e8b3fdaa07",
+      "providerTemplateId": "5635e895-ec00-40bb-8313-bc1c518be8ed",
       "tranche": "senior",
       "country": "us"
     },
     {
       "name": "DROP Subscription Agreement",
       "provider": "docusign",
-      "providerTemplateId": "72638eac-0838-416c-af7d-8704c1056f8b",
+      "providerTemplateId": "a5a48cfe-3b56-43f4-a3a0-726710d330ee",
       "tranche": "senior",
       "country": "non-us"
-    },
-    {
-      "name": "TIN Subscription Agreement",
-      "provider": "docusign",
-      "providerTemplateId": "b335165f-4dbd-4afb-b0e7-7557f338089f",
-      "tranche": "junior"
     }
   ],
   "issuer": {
-    "name": "Fortunafi",
-    "email": "ir@fortunafi.com",
+    "name": "ConsolFreight",
+    "email": "ernesto@consolfreight.com",
     "restrictedCountryCodes": [],
     "minInvestmentCurrency": "5000000000000000000000",
     "nonSolicitationNotice": "non-us"
