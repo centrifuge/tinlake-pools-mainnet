@@ -3,14 +3,14 @@
     {
       "name": "DROP Subscription Agreement",
       "provider": "docusign",
-      "providerTemplateId": "5635e895-ec00-40bb-8313-bc1c518be8ed",
+      "providerTemplateId": "bec1a84d-b836-468c-9529-9906d0ce3343",
       "tranche": "senior",
       "country": "us"
     },
     {
       "name": "DROP Subscription Agreement",
       "provider": "docusign",
-      "providerTemplateId": "a5a48cfe-3b56-43f4-a3a0-726710d330ee",
+      "providerTemplateId": "a9adc13b-a990-4d58-b54f-647762853923",
       "tranche": "senior",
       "country": "non-us"
     }

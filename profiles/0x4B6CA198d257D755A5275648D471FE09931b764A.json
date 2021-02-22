@@ -3,21 +3,21 @@
     {
       "name": "DROP Subscription Agreement",
       "provider": "docusign",
-      "providerTemplateId": "309a32bd-8c37-450e-ab9a-59e8b3fdaa07",
+      "providerTemplateId": "c423d6b4-c3ff-44a1-8948-14823601d7fd",
       "tranche": "senior",
       "country": "us"
     },
     {
       "name": "DROP Subscription Agreement",
       "provider": "docusign",
-      "providerTemplateId": "72638eac-0838-416c-af7d-8704c1056f8b",
+      "providerTemplateId": "3b3a33b8-23fc-40a4-8a4c-d1f5edd52f96",
       "tranche": "senior",
       "country": "non-us"
     },
     {
       "name": "TIN Subscription Agreement",
       "provider": "docusign",
-      "providerTemplateId": "b335165f-4dbd-4afb-b0e7-7557f338089f",
+      "providerTemplateId": "212e4df6-0205-495e-81dc-7d169e5aa6d4",
       "tranche": "junior"
     }
   ],
