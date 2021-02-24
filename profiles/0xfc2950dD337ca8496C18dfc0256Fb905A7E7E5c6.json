@@ -1,0 +1,28 @@
+{
+  "agreements": [
+    {
+      "name": "DROP Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "304c2e05-4f63-4f06-89b5-101a7b93dc34",
+      "tranche": "senior",
+      "country": "us"
+    },
+    {
+      "name": "DROP Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "304c2e05-4f63-4f06-89b5-101a7b93dc34",
+      "tranche": "senior",
+      "country": "non-us"
+    }
+  ],
+  "issuer": {
+    "name": "databased.FINANCE",
+    "email": "token@databased.finance",
+    "restrictedCountryCodes": ["AS", "GU", "HN", "MP", "PR", "US", "VI"],
+    "minInvestmentCurrency": "5000000000000000000000",
+    "nonSolicitationNotice": "none"
+  },
+  "bot": {
+    "channelId": "C01BRU8M7M1"
+  }
+}
