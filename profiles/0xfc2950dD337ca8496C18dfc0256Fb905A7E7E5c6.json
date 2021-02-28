@@ -17,7 +17,7 @@
   ],
   "issuer": {
     "name": "databased.FINANCE",
-    "email": "token@databased.finance",
+    "email": "legal@databased.finance",
     "restrictedCountryCodes": ["AS", "GU", "HN", "MP", "PR", "US", "VI"],
     "minInvestmentCurrency": "5000000000000000000000",
     "nonSolicitationNotice": "none"
