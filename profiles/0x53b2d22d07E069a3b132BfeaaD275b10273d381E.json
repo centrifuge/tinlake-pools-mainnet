@@ -1,6 +1,26 @@
 {
+  "agreements": [
+    {
+      "name": "DROP Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "4f702169-f39a-4e61-8991-a7bc4ed7c4a9",
+      "tranche": "senior",
+      "country": "us"
+    },
+    {
+      "name": "DROP Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "19750b36-24ab-43e3-9441-23abc2f09a80",
+      "tranche": "senior",
+      "country": "non-us"
+    }
+  ],
   "issuer": {
-    "name": "New Silver"
+    "name": "New Silver",
+    "email": "investors@newsilver.com",
+    "restrictedCountryCodes": [],
+    "minInvestmentCurrency": "5000000000000000000000",
+    "nonSolicitationNotice": "non-us"
   },
   "bot": {
     "channelId": "C01686GE8H2"
