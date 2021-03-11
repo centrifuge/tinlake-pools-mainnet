@@ -6,8 +6,32 @@ on:
     branches: [ main ]
 
 jobs:
-  build:
+  # For non-main branches, only push to IPFS so we can test it
+  push:
     runs-on: ubuntu-latest
+    if: github.ref != 'refs/heads/main'
+
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-node@v1
+      with:
+        node-version: 12.x
+    - run: npm run prepublish
+    - name: Upload to IPFS
+      id: upload_to_ipfs
+      uses: aquiladev/ipfs-action@v0.1.5
+      with:
+        path: ./out/pools.json
+        service: pinata
+        pinataPinName: mainnet-pools-$GITHUB_SHA
+        pinataKey: ${{ secrets.PINATA_KEY }}
+        pinataSecret: ${{ secrets.PINATA_SECRET }}
+
+  # For the main branch, push to IPFS and create a release
+  release:
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+
     steps:
     - uses: actions/checkout@v2
     - uses: actions/setup-node@v1
