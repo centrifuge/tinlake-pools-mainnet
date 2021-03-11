@@ -1,0 +1,49 @@
+{
+  "network": "mainnet",
+  "version": 3,
+  "addresses": {
+    "ROOT_CONTRACT": "0x714D520CfAC2027834c8Af8ffc901855c3aD41Ec",
+    "TINLAKE_CURRENCY": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "TITLE": "0xB380F26FeA05423BAD6b9AcEDF3e90dF9fC7C8cd",
+    "PILE": "0x99D0333f97432fdEfA25B7634520d505e58B131B",
+    "SHELF": "0x8868b1e995CBCBaD4D904012D4c2a590510773d8",
+    "COLLECTOR": "0xCF2Ad7482Eb7BfE0ae09241B268DbD8BfB37e323",
+    "FEED": "0x30E3f738f22f5a4671d1252793deB6e657e4b8AA",
+    "JUNIOR_OPERATOR": "0x99b598F822fc2BbC22E1eA396a7f3FCB3898e7E4",
+    "SENIOR_OPERATOR": "0x71995afE97E067c145fd6Cd352E0eF1d183D7B40",
+    "JUNIOR_TRANCHE": "0x78c484026242D064aD5c3B048a0C8fD4738f81f4",
+    "SENIOR_TRANCHE": "0x9fdB72D0Aa253712792b3A884A4e63fe3c1E5BCD",
+    "JUNIOR_TOKEN": "0xe3798ad98D8fA9510BB779Ca77722391B81Ff8ab",
+    "SENIOR_TOKEN": "0xAEF15587B4644Fe2760e44865E9BbA52f27947e4",
+    "JUNIOR_MEMBERLIST": "0x0F8129ce11653ED7fb83B60d8580b86022Bf0aeF",
+    "SENIOR_MEMBERLIST": "0xD0f425753437176923477F5b310bbd1a2e0A4253",
+    "ASSESSOR": "0xab321CDc90b8882D19c2866b377b450284501219",
+    "ASSESSOR_ADMIN": "0x1C422e1cf17CCDBb78A795EfeA637d569C830c1d",
+    "COORDINATOR": "0x44E9868B37e93F560Deccd5d8d62b26bC62Dce2d",
+    "RESERVE": "0x0958c089e6389F2BBa2EEdd754047265241BAF55",
+    "ACTIONS": "0x39e9b206dd1e8f9849f11e8ba6bb045e8321a239",
+    "PROXY_REGISTRY": "0xc9045c815bf123ad12ea75b9a7c579c1e05051f9"
+  },
+  "metadata": {
+    "name": "FactorChain Series 1",
+    "shortName": "FactorChain 1",
+    "slug": "factorchain-1",
+    "description": "FactorChain is a fintech firm focused on providing smarter, faster credit into the supply chain. Our credit origination process uses Dynamic AI to calculate risk scores. We access banking, financial and operational data to score the borrowers. We automate the onboarding and contract process utilizing smart contracts that track the progress of the credit issuance. We underwrite the credit through alternative pools of capital, redirecting DeFi yield from stablecoin backed investments.",
+    "website": "https://factorchain.ai/",
+    "details": {
+        "Asset Originator": "Factorchain Ltd",
+        "Collateral": "Expanded Inventory",
+        "Average Loan Size": "$2,000-10,000",
+        "Average Maturity": "30 to 60 days",
+        "Issuer": "Series 1 of FactorChain Investments LLC"
+    },
+    "discourseLink": "",
+    "asset": "Inventory Financing",
+    "media": {
+      "logo": "https://storage.googleapis.com/tinlake/pool-media/factorchain/logo.jpg",
+      "icon": "https://storage.googleapis.com/tinlake/pool-media/factorchain/icon.png",
+      "drop": "https://storage.googleapis.com/tinlake/pool-media/factorchain/drop.png",
+      "tin": "https://storage.googleapis.com/tinlake/pool-media/factorchain/tin.png"
+    }
+  }
+}
