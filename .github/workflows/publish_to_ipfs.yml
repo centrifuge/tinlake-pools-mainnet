@@ -3,7 +3,11 @@ name: Publish contracts to IPFS
 
 on:
   push:
-    branches: [ main ]
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
 
 jobs:
   # For non-main branches, only push to IPFS so we can test it
