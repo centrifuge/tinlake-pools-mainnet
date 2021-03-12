@@ -48,6 +48,15 @@
     "securitize": {
       "issuerId": "cea022e7-6dbe-4262-9c8e-c4724e321b2c",
       "slug": "newsilver"
+    },
+    "assetMaturity": "12 to 24 months",
+    "attributes": {
+      "Issuer": "NS Pool LLC",
+      "Links": {
+        "Executive Summary": "https://storage.googleapis.com/tinlake/docs/summaries/NS2.pdf",
+        "Discussion on Discourse": "https://gov.centrifuge.io/t/community-introduction-new-silver/401",
+        "Website": "https://newsilver.com/"
+      }
     }
   }
 }

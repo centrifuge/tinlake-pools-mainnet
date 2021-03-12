@@ -48,6 +48,15 @@
     "securitize": {
       "issuerId": "fe404325-2223-498d-a4f6-d057c0fd8e8d",
       "slug": "1754factory"
+    },
+    "assetMaturity": "30 to 90 days",
+    "attributes": {
+      "Issuer": "1754 Factory, LLC (Bling Series 1)",
+      "Links": {
+        "Executive Summary": "https://storage.googleapis.com/tinlake/docs/summaries/BL1.pdf",
+        "Discussion on Discourse": "https://gov.centrifuge.io/t/community-introduction-1754-factory/387",
+        "Website": "https://www.1754.finance/"
+      }
     }
   }
 }

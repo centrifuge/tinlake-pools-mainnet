@@ -31,11 +31,11 @@
     "description": "FactorChain is a fintech firm focused on providing smarter, faster credit into the supply chain. Our credit origination process uses Dynamic AI to calculate risk scores. We access banking, financial and operational data to score the borrowers. We automate the onboarding and contract process utilizing smart contracts that track the progress of the credit issuance. We underwrite the credit through alternative pools of capital, redirecting DeFi yield from stablecoin backed investments.",
     "website": "https://factorchain.ai/",
     "details": {
-        "Asset Originator": "Factorchain Ltd",
-        "Collateral": "Expanded Inventory",
-        "Average Loan Size": "$2,000-10,000",
-        "Average Maturity": "30 to 60 days",
-        "Issuer": "Series 1 of FactorChain Investments LLC"
+      "Asset Originator": "Factorchain Ltd",
+      "Collateral": "Expanded Inventory",
+      "Average Loan Size": "$2,000-10,000",
+      "Average Maturity": "30 to 60 days",
+      "Issuer": "Series 1 of FactorChain Investments LLC"
     },
     "discourseLink": "",
     "asset": "Inventory Financing",
@@ -44,6 +44,13 @@
       "icon": "https://storage.googleapis.com/tinlake/pool-media/factorchain/icon.png",
       "drop": "https://storage.googleapis.com/tinlake/pool-media/factorchain/drop.png",
       "tin": "https://storage.googleapis.com/tinlake/pool-media/factorchain/tin.png"
+    },
+    "assetMaturity": "30 to 90 days",
+    "attributes": {
+      "Issuer": "FactorChain Investments LLC (Series 1)",
+      "Links": {
+        "Website": "https://factorchain.ai/"
+      }
     }
   }
 }
