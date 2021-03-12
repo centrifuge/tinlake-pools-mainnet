@@ -47,6 +47,15 @@
     "securitize": {
       "issuerId": "dbd432d2-a88b-4067-9474-9fba6b870c80",
       "slug": "databasedFINANCE"
+    },
+    "assetMaturity": "24 to 36 months",
+    "attributes": {
+      "Issuer": "Fortunafi Asset Management Pool 1",
+      "Links": {
+        "Executive Summary": "https://storage.googleapis.com/tinlake/docs/summaries/FF1.pdf",
+        "Discussion on Discourse": "https://gov.centrifuge.io/t/community-introduction-fortunafi/394",
+        "Website": "https://www.fortunafi.com/",
+      }
     }
   }
 }
