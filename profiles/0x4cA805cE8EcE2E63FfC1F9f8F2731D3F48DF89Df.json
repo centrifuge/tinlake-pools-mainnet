@@ -1,6 +1,26 @@
 {
+  "agreements": [
+    {
+      "name": "DROP Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "5f02b5a3-7864-4f5c-bc21-8e8f7dbd22cb",
+      "tranche": "senior",
+      "country": "us"
+    },
+    {
+      "name": "DROP Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "fb9d4f62-43b3-4e8f-b135-4d29a4a72a0e",
+      "tranche": "senior",
+      "country": "non-us"
+    }
+  ],
   "issuer": {
-    "name": "Harbor Trade Credit"
+    "name": "Harbor Trade Credit",
+    "email": "investors@harbortradecredit.com",
+    "restrictedCountryCodes": [],
+    "minInvestmentCurrency": "5000000000000000000000",
+    "nonSolicitationNotice": "non-us"
   },
   "bot": {
     "channelId": "C014KJYHYKZ"
