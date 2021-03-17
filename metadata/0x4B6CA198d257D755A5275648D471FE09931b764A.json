@@ -28,7 +28,7 @@
     "name": "Fortunafi Series 1",
     "shortName": "Fortunafi 1",
     "slug": "fortunafi-1",
-    "description": "Fortunafi Asset Management Pool 1 is a pool of Revenue Based Financing (RBF) Assets. Revenue Based Assets or Revenue Based Financing (RBF) is a type of financial capital provided to small or growing businesses in which investors inject capital into a business in return for a fixed percentage of ongoing gross revenues, with payment increases and decreases based on business revenues, typically measured as monthly revenue. Usually the returns to the investor continue until the initial capital amount, plus a multiple (also known as a cap) is repaid.",
+    "description": "Fortunafi Asset Management is a technology enabled revenue based finance provider. Revenue based financing provides capital to small or growing businesses in return for a fixed percentage of ongoing gross revenues. Thus payments increase and decrease based on business revenues, typically measured as monthly revenue. Usually the returns to the investor continue until the initial capital amount, plus a multiple (also known as a cap) is repaid. This Tinlake pool is composed of a portfolio of revenue based financing agreements with an average maturity of twenty four months.",
     "media": {
       "logo": "https://storage.googleapis.com/tinlake/pool-media/fortunafi-1/logo.png",
       "icon": "https://storage.googleapis.com/tinlake/pool-media/fortunafi-1/icon.svg",
@@ -49,9 +49,9 @@
       "issuerId": "711d4750-7ff5-4324-bfdc-91b484229bc7",
       "slug": "fortunafi"
     },
-    "assetMaturity": "24 to 36 months",
+    "assetMaturity": "24 months",
     "attributes": {
-      "Issuer": "Fortunafi Asset Management Pool 1",
+      "Issuer": "Fortunafi Asset Management LLC (Series 1)",
       "Links": {
         "Executive Summary": "https://storage.googleapis.com/tinlake/docs/summaries/FF1.pdf",
         "Discussion on Discourse": "https://gov.centrifuge.io/t/community-introduction-fortunafi/394",
