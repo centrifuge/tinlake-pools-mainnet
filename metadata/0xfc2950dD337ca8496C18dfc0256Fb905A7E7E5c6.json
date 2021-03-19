@@ -47,6 +47,15 @@
     "securitize": {
       "issuerId": "dbd432d2-a88b-4067-9474-9fba6b870c80",
       "slug": "databasedFINANCE"
+    },
+    "assetMaturity": "30 to 90 days",
+    "attributes": {
+      "Issuer": "databased.FINANCE Limited",
+      "Links": {
+        "Executive Summary": "https://storage.googleapis.com/tinlake/docs/summaries/DF1.pdf",
+        "Discussion on Discourse": "https://gov.centrifuge.io/t/community-introduction-databased-finance/1818",
+        "Website": "https://www.databased.finance/"
+      }
     }
   }
 }

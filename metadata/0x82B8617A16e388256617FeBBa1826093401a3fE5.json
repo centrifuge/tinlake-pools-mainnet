@@ -28,7 +28,7 @@
     "name": "Paperchain Series 3",
     "shortName": "Paperchain 3",
     "slug": "paperchain-3",
-    "description": "Paperchain is launching the third Tinlake pool to fund music streaming invoices. We provide an easy and fast way for artists and media companies to access their streaming revenue. Operating at the intersection of media, finance, and technology, Paperchain connects to the largest media streaming platforms and offers creators a non-dilutive funding model via innovative use of media data streams & investment products. We work with Merlin, a collective licensing aggregator that represents thousands of labels worldwide negotiating licensing agreements with leading streaming platforms such as Spotify.",
+    "description": "Paperchain operates at the intersection of media, finance, and technology, connecting to the largest media streaming platforms and offering creators a non-dilutive funding model via innovative use of media data streams and investment products. This provides an easy and fast way for artists and media companies to access their streaming revenue. Paperchain works with Merlin, a collective licensing aggregator that represents thousands of labels worldwide negotiating licensing agreements with leading streaming platforms such as Spotify. This Tinlake pool is financing a portfolio of music streaming invoices with a maturity of forty five to sixty days.",
     "media": {
       "logo": "https://storage.googleapis.com/tinlake/pool-media/paperchain/logo.svg",
       "icon": "https://storage.googleapis.com/tinlake/pool-media/paperchain/icon.svg",
@@ -47,6 +47,15 @@
     "securitize": {
       "issuerId": "8297cd67-a654-45e4-a30b-42d7b8fb87c3",
       "slug": "paperchain"
+    },
+    "assetMaturity": "45 to 60 days",
+    "attributes": {
+      "Issuer": "Paperchain LLC (Series 3)",
+      "Links": {
+        "Executive Summary": "https://storage.googleapis.com/tinlake/docs/summaries/PC3.pdf",
+        "Discussion on Discourse": "https://gov.centrifuge.io/t/community-introduction-paperchain/484",
+        "Website": "https://paperchain.io/"
+      }
     }
   }
 }
