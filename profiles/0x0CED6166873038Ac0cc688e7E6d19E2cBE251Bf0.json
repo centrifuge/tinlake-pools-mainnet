@@ -1,6 +1,26 @@
 {
+  "agreements": [
+    {
+      "name": "DROP Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "d1735ddc-6642-4084-a10e-f25d2cb3b758",
+      "tranche": "senior",
+      "country": "us"
+    },
+    {
+      "name": "DROP Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "bc240308-7286-49f4-b1eb-6434a771bc53",
+      "tranche": "senior",
+      "country": "non-us"
+    },
+  ],
   "issuer": {
-    "name": "1754 Factory"
+    "name": "1754 Factory",
+    "email": "investors@1754.finance",
+    "restrictedCountryCodes": [],
+    "minInvestmentCurrency": "5000000000000000000000",
+    "nonSolicitationNotice": "non-us"
   },
   "bot": {
     "channelId": "C01CH1RM0UW"

@@ -1,6 +1,26 @@
 {
+  "agreements": [
+    {
+      "name": "DROP Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "fe77628a-30dc-4ab9-93f8-e7db2b4d79e8",
+      "tranche": "senior",
+      "country": "us"
+    },
+    {
+      "name": "DROP Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "d9466f09-82d6-41c8-8ff8-9c677166ba32",
+      "tranche": "senior",
+      "country": "non-us"
+    }
+  ],
   "issuer": {
-    "name": "Paperchain"
+    "name": "Paperchain",
+    "email": "budd@paperchain.io",
+    "restrictedCountryCodes": [],
+    "minInvestmentCurrency": "5000000000000000000000",
+    "nonSolicitationNotice": "non-us"
   },
   "bot": {
     "channelId": "CN3BK662E"
