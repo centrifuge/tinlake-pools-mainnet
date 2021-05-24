@@ -35,19 +35,7 @@
       "drop": "https://storage.googleapis.com/tinlake/pool-media/paperchain/drop.svg",
       "tin": "https://storage.googleapis.com/tinlake/pool-media/paperchain/tin.svg"
     },
-    "website": "https://paperchain.io/",
-    "details": {
-      "Asset Originator": "Paperchain Pilot LLC",
-      "Collateral": "Music Streaming Invoices from Spotify",
-      "Average Invoice Size": "$25,000",
-      "Maturity Date": "45-60 days",
-      "Issuer": "Paperchain Series 3 LLC, Delaware"
-    },
     "asset": "Music Streaming Invoices",
-    "securitize": {
-      "issuerId": "8297cd67-a654-45e4-a30b-42d7b8fb87c3",
-      "slug": "paperchain"
-    },
     "assetMaturity": "45 to 60 days",
     "attributes": {
       "Issuer": "Paperchain LLC (Series 3)",

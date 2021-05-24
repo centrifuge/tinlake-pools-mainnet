@@ -35,21 +35,7 @@
       "drop": "https://storage.googleapis.com/tinlake/pool-media/consolfreight-4/drop.svg",
       "tin": "https://storage.googleapis.com/tinlake/pool-media/consolfreight-4/tin.svg"
     },
-    "website": "https://www.consolfreight.io/",
-    "details": {
-      "Asset Originator": "Consol Freight LLC",
-      "Collateral": "Cargo & Freight Forwarding Invoices",
-      "Average Cargo Value": "$80,000",
-      "Average Freight Invoice Value": "$5,000",
-      "Days Outstanding": "30 to 90 days",
-      "Issuer": "ConsolFreight Pilot LLC (Series 4)"
-    },
-    "discourseLink": "https://discourse.centrifuge.io/t/community-introduction-consolfreight/333",
     "asset": "Cargo & Freight Forwarding Invoices",
-    "securitize": {
-      "issuerId": "2c4afdf0-c429-436b-a7ba-5dffccb164af",
-      "slug": "consolfreight"
-    },
     "assetMaturity": "30 to 90 days",
     "attributes": {
       "Issuer": "ConsolFreight Pilot LLC (Series 4)",

@@ -35,20 +35,7 @@
       "drop": "https://storage.googleapis.com/tinlake/pool-media/bling-series-1/drop.svg",
       "tin": "https://storage.googleapis.com/tinlake/pool-media/bling-series-1/tin.svg"
     },
-    "website": "https://1754.finance/",
-    "details": {
-      "Asset Originator": "Bling",
-      "Issuer": "1754 Factory, LLC (Bling Series 1)",
-      "Collateral": "Payment Advances for French Consumers",
-      "Average Asset Size": "€10,000",
-      "Maturity Date": "90 days"
-    },
-    "discourseLink": "https://discourse.centrifuge.io/t/community-introduction-1754-factory/387",
     "asset": "Payment Advances",
-    "securitize": {
-      "issuerId": "fe404325-2223-498d-a4f6-d057c0fd8e8d",
-      "slug": "1754factory"
-    },
     "assetMaturity": "30 to 90 days",
     "attributes": {
       "Issuer": "1754 Factory, LLC (Bling Series 1)",

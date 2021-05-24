@@ -29,15 +29,6 @@
     "shortName": "FactorChain 1",
     "slug": "factorchain-1",
     "description": "FactorChain is a fintech firm focused on providing smarter, faster credit into the supply chain. Our credit origination process uses Dynamic AI to calculate risk scores accessing banking, financial and operational data to score the borrowers. We automate the onboarding and contract process utilizing smart contracts that track the progress of the credit issuance. This Tinlake Pool is financing a portfolio of inventory expansions with a maturity of thirty to ninety days.",
-    "website": "https://factorchain.ai/",
-    "details": {
-      "Asset Originator": "Factorchain Ltd",
-      "Collateral": "Expanded Inventory",
-      "Average Loan Size": "$2,000-10,000",
-      "Average Maturity": "30 to 60 days",
-      "Issuer": "Series 1 of FactorChain Investments LLC"
-    },
-    "discourseLink": "",
     "asset": "Inventory Financing",
     "media": {
       "logo": "https://storage.googleapis.com/tinlake/pool-media/factorchain/logo.jpg",

@@ -35,19 +35,7 @@
       "tin": "https://storage.googleapis.com/tinlake/pool-media/databased-finance/tin.svg"
     },
     "description": "databased.FINANCE is launching its first Tinlake pool to purchase verified inventory from Amazon Sellers. We are an inventory technology provider that buys from Amazon Sellers who have a Sales History with Amazon and use Fulfilled By Amazon for managing their prepositioned inventory. We purchase their prepositioned inventory and charge a Limited Exclusive Rights Sales fee in 30 day cycles so they can sell it on our behalf. We use a third party Oracle service, Track.one Limited to access the account of the Amazon Seller and verify both historic price, sales volumes, and the current inventory holdings of the brand. This allows us to mark-to-market the value of the inventory. We call this type of finance databased.FINANCE",
-    "website": "https://www.databased.finance/",
-    "details": {
-      "Asset Originator": "databased.FINANCE Limited",
-      "Collateral": "Branded Inventory Financing",
-      "Average Loan Size": "Increasing from an initial $26,000",
-      "Average Maturity": "Rolling 30 days",
-      "Issuer": "databased.FINANCE Limited"
-    },
     "asset": "Branded Inventory Financing",
-    "securitize": {
-      "issuerId": "dbd432d2-a88b-4067-9474-9fba6b870c80",
-      "slug": "databasedFINANCE"
-    },
     "assetMaturity": "30 to 90 days",
     "attributes": {
       "Issuer": "databased.FINANCE Limited",

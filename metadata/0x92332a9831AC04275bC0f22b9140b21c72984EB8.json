@@ -35,7 +35,6 @@
       "tin": "https://storage.googleapis.com/tinlake/pool-media/pezesha/tin.svg"
     },
     "description": "Pezesha partners with suppliers to provide small merchants underserved by traditional lenders access to high-quality and low-risk financing. Pezesha leverages the supplier transaction history to identify good borrowers, and it integrates into the supplier interface via APIs to provide merchants a loan at the time of ordering to achieve high conversion, and disburses and collects repayment via digital channels, such as mobile money. Pezesha partners have tens of thousands of merchants in Kenya and Ghana. This pool will consist of a portfolio of securitized merchant financings with a maturity of six months. The assets are issued by 1754 Factory LLC Series 2 managed by Davoa Capital.",
-    "website": "https://pezesha.com/",
     "assetMaturity": "180 days",
     "attributes": {
       "Issuer": "1754 Series 2 LLC",
