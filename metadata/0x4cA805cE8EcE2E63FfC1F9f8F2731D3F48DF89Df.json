@@ -21,7 +21,7 @@
     "ASSESSOR_ADMIN": "0x35e805BA2FB7Ad4C8Ad9D644Ca9Bd34a49f5500d",
     "COORDINATOR": "0xE2a04a4d4Df350a752ADA79616D7f588C1A195cF",
     "RESERVE": "0x573a8a054e0C80F0E9B1e96E8a2198BB46c999D6",
-    "ACTIONS": "0x39e9b206dd1e8f9849f11e8ba6bb045e8321a239",
+    "ACTIONS": "0x80F33ED0A69935dd74310b9D0009D0BA647Cf223",
     "PROXY_REGISTRY": "0xc9045c815bf123ad12ea75b9a7c579c1e05051f9"
   },
   "metadata": {
@@ -35,20 +35,7 @@
       "drop": "https://storage.googleapis.com/tinlake/pool-media/harbor/drop.svg",
       "tin": "https://storage.googleapis.com/tinlake/pool-media/harbor/tin.svg"
     },
-    "website": "https://harbortradecredit.com/",
-    "details": {
-      "Asset Originator": "Harbor Trade Credit, LLC",
-      "Issuer": "Series 2 of Harbor Trade Credit Series LLC",
-      "Collateral": "Trade Receivables",
-      "Average Invoice Size": "$100,000",
-      "Average Maturity Date": "90 days"
-    },
-    "discourseLink": "https://discourse.centrifuge.io/t/community-introduction-harbor-trade-credit/141",
     "asset": "Trade Receivables",
-    "securitize": {
-      "issuerId": "5f13a4ac-2100-4f79-b1dc-2419726f631a",
-      "slug": "harbortradecredit"
-    },
     "assetMaturity": "60 to 120 days",
     "attributes": {
       "Issuer": "Harbor Trade Credit Series LLC (Series 2)",

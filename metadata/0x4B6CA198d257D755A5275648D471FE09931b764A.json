@@ -21,8 +21,9 @@
     "ASSESSOR_ADMIN": "0x71d8ec8bE0d8C694f0c177C9aCb531B1D9076D08",
     "COORDINATOR": "0xD7965D41c37B9F8691F0fe83878f6FFDbCb90996",
     "RESERVE": "0x78aF512B18C0893e77138b02B1393cd887816EDF",
-    "ACTIONS": "0x39e9b206dd1e8f9849f11e8ba6bb045e8321a239",
-    "PROXY_REGISTRY": "0xc9045c815bf123ad12ea75b9a7c579c1e05051f9"
+    "ACTIONS": "0x80F33ED0A69935dd74310b9D0009D0BA647Cf223",
+    "PROXY_REGISTRY": "0xc9045c815bf123ad12ea75b9a7c579c1e05051f9",
+    "AO_REWARD_RECIPIENT": "0xB170597E474CC124aE8Fe2b335d0d80E08bC3e37"
   },
   "metadata": {
     "name": "Fortunafi Series 1",
@@ -35,20 +36,7 @@
       "drop": "https://storage.googleapis.com/tinlake/pool-media/fortunafi-1/drop.svg",
       "tin": "https://storage.googleapis.com/tinlake/pool-media/fortunafi-1/tin.svg"
     },
-    "website": "https://www.fortunafi.com/",
-    "details": {
-      "Asset Originator": "Fortunafi Asset Management",
-      "Issuer": "Fortunafi Asset Management Pool 1",
-      "Collateral": "Revenue Based Financing",
-      "Average Loan Size": "$150,000",
-      "Maturity Date": "24 to 36 months"
-    },
-    "discourseLink": "https://discourse.centrifuge.io/t/community-introduction-fortunafi/394",
     "asset": "Revenue Based Financing",
-    "securitize": {
-      "issuerId": "711d4750-7ff5-4324-bfdc-91b484229bc7",
-      "slug": "fortunafi"
-    },
     "assetMaturity": "24 months",
     "attributes": {
       "Issuer": "Fortunafi Asset Management LLC (Series 1)",

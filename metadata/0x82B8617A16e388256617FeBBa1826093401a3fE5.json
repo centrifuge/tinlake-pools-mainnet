@@ -21,7 +21,7 @@
     "ASSESSOR_ADMIN": "0x516679068375b3a15E7a10347970FC14a6d3997b",
     "COORDINATOR": "0x99f36Ea3c21bf0c3ed3D53bFdB9f7D8a28A894a9",
     "RESERVE": "0xB873c152C06be54C704F891E37A7e3B554514964",
-    "ACTIONS": "0x39e9b206dd1e8f9849f11e8ba6bb045e8321a239",
+    "ACTIONS": "0x80F33ED0A69935dd74310b9D0009D0BA647Cf223",
     "PROXY_REGISTRY": "0xc9045c815bf123ad12ea75b9a7c579c1e05051f9"
   },
   "metadata": {
@@ -35,19 +35,7 @@
       "drop": "https://storage.googleapis.com/tinlake/pool-media/paperchain/drop.svg",
       "tin": "https://storage.googleapis.com/tinlake/pool-media/paperchain/tin.svg"
     },
-    "website": "https://paperchain.io/",
-    "details": {
-      "Asset Originator": "Paperchain Pilot LLC",
-      "Collateral": "Music Streaming Invoices from Spotify",
-      "Average Invoice Size": "$25,000",
-      "Maturity Date": "45-60 days",
-      "Issuer": "Paperchain Series 3 LLC, Delaware"
-    },
     "asset": "Music Streaming Invoices",
-    "securitize": {
-      "issuerId": "8297cd67-a654-45e4-a30b-42d7b8fb87c3",
-      "slug": "paperchain"
-    },
     "assetMaturity": "45 to 60 days",
     "attributes": {
       "Issuer": "Paperchain LLC (Series 3)",
