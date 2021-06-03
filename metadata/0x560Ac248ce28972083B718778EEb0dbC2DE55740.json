@@ -1,0 +1,47 @@
+{
+  "network": "mainnet",
+  "version": 3,
+  "addresses": {
+    "ROOT_CONTRACT": "0x560Ac248ce28972083B718778EEb0dbC2DE55740",
+    "TINLAKE_CURRENCY": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "TITLE": "0xd61E8D3Af157e70C175831C80BF331A16dC2442A",
+    "PILE": "0xe17F3c35C18b2Af84ceE2eDed673c6A08A671695",
+    "SHELF": "0xeCc564B98f3F50567C3ED0C1E784CbA4f97C6BcD",
+    "COLLECTOR": "0x101143B77b544918f2f4bDd8B9bD14b899f675af",
+    "FEED": "0x2CC23f2C2451C55a2f4Da389bC1d246E1cF10fc6",
+    "JUNIOR_OPERATOR": "0xf234778f148a0bB483cC1508a5f7c3C5E445596E",
+    "SENIOR_OPERATOR": "0x378Ca1098eA1f4906247A146632635EC7c7e5735",
+    "JUNIOR_TRANCHE": "0x836f3B2949722BED92719b28DeD38c4138818932",
+    "SENIOR_TRANCHE": "0x70B78902844691266D6b050A9725c5A6Dc328fc4",
+    "JUNIOR_TOKEN": "0xd0E93A90556c92eE8E100C7c2Dd008fb650B0712",
+    "SENIOR_TOKEN": "0x8d2b8Df9Cb35B875F9726F43a013caF16aEFA472",
+    "JUNIOR_MEMBERLIST": "0x00e6bbF959c2B2a14D118CC74D1c9744f0C7C5Da",
+    "SENIOR_MEMBERLIST": "0x26768a74819608B96fcC2a83Ba4A651b6b31AE96",
+    "ASSESSOR": "0x546F37C27483ffd6deC56076d0F8b4B636C5616B",
+    "ASSESSOR_ADMIN": "0xc9caE66106B64D841ac5CB862d482704569DD52d",
+    "COORDINATOR": "0x43DBBEA4fBe15acbfE13cfa2C2c820355e734475",
+    "RESERVE": "0xE5FDaE082F6E22f25f0382C56cb3c856a803c9dD",
+    "POOL_ADMIN": "0x2695758B7e213dC6dbfaBF3683e0c0b02E779343",
+    "ACTIONS": "0x80F33ED0A69935dd74310b9D0009D0BA647Cf223",
+    "PROXY_REGISTRY": "0xc9045c815bf123ad12ea75b9a7c579c1e05051f9"
+  },
+  "metadata": {
+    "name": "Branch Series 3 (1754 Factory)",
+    "shortName": "Branch Series 3",
+    "slug": "branch-3",
+    "media": {
+      "logo": "https://storage.googleapis.com/tinlake/pool-media/branch-3/logo.png",
+      "icon": "https://storage.googleapis.com/tinlake/pool-media/branch-3/icon.png",
+      "drop": "https://storage.googleapis.com/tinlake/pool-media/branch-3/drop.png",
+      "tin": "https://storage.googleapis.com/tinlake/pool-media/branch-3/tin.png"
+    },
+    "description": "Branch is a financial technology company that lends money to consumers using machine learning algorithms to determine credit worthiness via customers' smartphones. Branch was founded in 2015 and has operations in Kenya, Nigeria, Tanzania, Mexico and India, and has since originated over $500M in loans to over 4 millions borrowers. This Tinlake pool will consist of tranches of a secured non convertible debenture with an typical maturity of 1 year backed by a portfolio of loans made to customers. The current weighted average loan balance is $49 ranging from $6 to $2,500.",
+    "assetMaturity": "6-12 months",
+    "attributes": {
+      "Issuer": "1754 Factory Series 3"
+    },
+    "asset": "Emerging Market Consumer Loans",
+    "currencySymbol": "DAI",
+    "isUpcoming": false
+  }
+}
