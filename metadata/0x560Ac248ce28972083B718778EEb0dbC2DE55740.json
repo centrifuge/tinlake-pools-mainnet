@@ -38,7 +38,11 @@
     "description": "Branch is a financial technology company that lends money to consumers using machine learning algorithms to determine credit worthiness via customers' smartphones. Branch was founded in 2015 and has operations in Kenya, Nigeria, Tanzania, Mexico and India, and has since originated over $500M in loans to over 4 millions borrowers. This Tinlake pool will consist of tranches of a secured non convertible debenture with a maturity of 3 years backed by a portfolio of loans made to customers.The current weighted average loan balance is $49 (ranging from $6 to $2,500) with average maturity of 70 days.",
     "assetMaturity": "3 years",
     "attributes": {
-      "Issuer": "1754 Factory Series 3"
+      "Issuer": "1754 Factory Series 3",
+      "Links": {
+        "Executive Summary": "https://storage.googleapis.com/tinlake/docs/summaries/BR3.pdf",
+        "Website": "https://www.1754.finance/"
+      }
     },
     "asset": "Emerging Market Consumer Loans",
     "currencySymbol": "DAI",
