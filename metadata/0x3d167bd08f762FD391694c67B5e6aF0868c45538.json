@@ -35,7 +35,7 @@
     "slug": "gig-pool",
     "description": "The GIG Pool will help Gig economy workers to get paid on demand for their services. The GIG pool will provide payment advances to freelancers, influencers, artists and other types of Gig economy workers. Initially the GIG pool will support Gig workers from Uber, Lyft, Instacart, Doordash, Upwork, Postmate, Shipt, and Amazon Flex and it will quickly expand to additional partners. It will consist of a portfolio of payment advances structured with a typical maturity of 60-90 days.",
     "media": {
-      "logo": "https://storage.googleapis.com/tinlake/pool-media/gig-pool-1/icon.svg",
+      "logo": "https://storage.googleapis.com/tinlake/pool-media/gig-pool-1/logo.svg",
       "icon": "https://storage.googleapis.com/tinlake/pool-media/gig-pool-1/icon.svg",
       "drop": "https://storage.googleapis.com/tinlake/pool-media/gig-pool-1/drop.svg",
       "tin": "https://storage.googleapis.com/tinlake/pool-media/gig-pool-1/tin.svg"
@@ -43,7 +43,10 @@
     "asset": "Gig Economy Payment Advances",
     "assetMaturity": "30 to 90 Days",
     "attributes": {
-      "Issuer": "END_Bridge LLC"
+      "Issuer": "END_Bridge LLC",
+      "Links": {
+        "Executive Summary": "https://storage.googleapis.com/tinlake/docs/summaries/GIG.pdf"
+      }
     },
     "currencySymbol": "DAI",
     "isUpcoming": false
