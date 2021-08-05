@@ -1,0 +1,28 @@
+{
+  "agreements": [
+    {
+      "name": "DROP Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "xx",
+      "tranche": "senior",
+      "country": "us"
+    },
+    {
+      "name": "DROP Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "xx",
+      "tranche": "senior",
+      "country": "non-us"
+    }
+  ],
+  "issuer": {
+    "name": "UP Series LLC",
+    "email": "contact@untangled.finance",
+    "restrictedCountryCodes": [],
+    "minInvestmentCurrency": "5000000000000000000000",
+    "nonSolicitationNotice": "non-us"
+  },
+  "bot": {
+    "channelId": "xx"
+  }
+}
