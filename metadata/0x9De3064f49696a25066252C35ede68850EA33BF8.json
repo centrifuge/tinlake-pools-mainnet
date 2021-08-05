@@ -1,0 +1,51 @@
+{
+  "network": "mainnet",
+  "version": 3,
+  "addresses": {
+    "ROOT_CONTRACT": "0x9De3064f49696a25066252C35ede68850EA33BF8",
+    "TINLAKE_CURRENCY": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "TITLE": "0x1d903bd1C602Ef3A64f47E9aaDC85BC80a38A28E",
+    "PILE": "0xB7d1DE24c0243e6A3eC4De9fAB2B19AB46Fa941F",
+    "SHELF": "0xE80C9e9fbaE9868e1D645f9727436afE5381047A",
+    "COLLECTOR": "0x8E341534acc586903B930B160e58bc68Bd7Cfbd6",
+    "FEED": "0x800aa0DD91374364E3De476D97dca32848CeA6c4",
+    "JUNIOR_OPERATOR": "0x2840292eeC553c5816e7715a1427BfeD69EBF82E",
+    "SENIOR_OPERATOR": "0x2B1448781b53fd399f380a31FBa9f839e04889fA",
+    "JUNIOR_TRANCHE": "0x3Bb758A44034BDDFe44D50bA0eDE962B699665Fd",
+    "SENIOR_TRANCHE": "0xe66162910e6d28965D1A90bB15Bb0E861745115F",
+    "JUNIOR_TOKEN": "0x0097f415bf4C1B5d1145896D7de74f3f767d5A31",
+    "SENIOR_TOKEN": "0x42A95D51a7bd4Ef4c3558E638F09268f4DE726c2",
+    "JUNIOR_MEMBERLIST": "0xF32bAC8a57f2e7354bb82D05DCEe658A5Db5981a",
+    "SENIOR_MEMBERLIST": "0xe9Eaf8054476F73782B408b4F20CDfA277390817",
+    "ASSESSOR": "0xdBBa712f10061A3c7619Dc46852d8399F33C9fC7",
+    "POOL_ADMIN": "0x545D98baa87B9C13305b081ef102ECb6F4F6f3C0",
+    "COORDINATOR": "0x7359206302EC387C6db94422f09203915F15eB89",
+    "RESERVE": "0x6942f8779C5C4aa385121A3Ee203f2cA1D9d10bc",
+    "ACTIONS": "0x80F33ED0A69935dd74310b9D0009D0BA647Cf223",
+    "PROXY_REGISTRY": "0xC9045c815bF123ad12EA75b9A7c579C1e05051f9"
+  },
+  "metadata": {
+    "name": "Untangled Platform Series 1",
+    "shortName": "UP Series 1",
+    "slug": "up-series-1",
+    "description": "UP Series LLC is a Digital Credit Fund set up by Untangled Finance, a digital securitisation platform regulated in the UK. The first Series is set up to invest in Trade Finance Assets (TFA). TFA are short term, self-liquidating invoice-based financings in both domestic and cross border trade. TFA traditionally have a very low default rate. This Series will invest in TFA from multiple asset originators. The originators have good underwriting records with zero/low default rates to date. All asset originators are subject to due diligence by Untangled.",
+    "media": {
+      "logo": "https://storage.googleapis.com/tinlake/pool-media/untangled-pool-1/logo.png",
+      "icon": "https://storage.googleapis.com/tinlake/pool-media/untangled-pool-1/icon.svg",
+      "drop": "https://storage.googleapis.com/tinlake/pool-media/untangled-pool-1/drop.svg",
+      "tin": "https://storage.googleapis.com/tinlake/pool-media/untangled-pool-1/tin.svg"
+    },
+    "asset": "Trade Finance",
+    "assetMaturity": "6 to 9 months",
+    "attributes": {
+      "Issuer": "UP Series LLC",
+      "Links": {
+        "Executive Summary": "https://storage.googleapis.com/tinlake/docs/summaries/UP1.pdf",
+        "Forum Discussion": "https://gov.centrifuge.io/t/untangled-digital-credit-fund/2768",
+        "Website": "https://untangled.finance/"
+      }
+    },
+    "currencySymbol": "DAI",
+    "isUpcoming": true
+  }
+}
