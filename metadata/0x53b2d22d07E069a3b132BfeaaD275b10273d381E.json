@@ -52,7 +52,8 @@
       }
     },
     "maker": {
-      "ilk": "RWA002-A"
+      "ilk": "RWA002-A",
+      "minNonMakerDropShare": 0.25
     }
   }
 }
