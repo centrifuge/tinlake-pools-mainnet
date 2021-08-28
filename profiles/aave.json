@@ -1,0 +1,28 @@
+{
+  "agreements": [
+    {
+      "name": "DROP Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "5cb3ff66-2898-45b6-8d27-a4b9085367eb",
+      "tranche": "senior",
+      "country": "us"
+    },
+    {
+      "name": "DROP Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "4742c326-3ca2-4e5f-9aea-0b3946eddf2e",
+      "tranche": "senior",
+      "country": "non-us"
+    }
+  ],
+  "issuer": {
+    "name": "END_Bridge LLC",
+    "email": "investors@end-bridge.com",
+    "restrictedCountryCodes": [],
+    "minInvestmentCurrency": "5000000000000000000000",
+    "nonSolicitationNotice": "non-us"
+  },
+  "bot": {
+    "channelId": "C027ZHDDLSD"
+  }
+}
