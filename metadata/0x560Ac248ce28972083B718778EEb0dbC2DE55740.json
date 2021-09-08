@@ -47,6 +47,17 @@
     },
     "asset": "Emerging Market Consumer Loans",
     "currencySymbol": "DAI",
-    "isUpcoming": false
+    "isUpcoming": false,
+    "juniorInvestors": [
+      {
+        "name": "Davoa Capital",
+        "address": "0x3F694284e7343f838Bcb67e2bcFe67Eb02b49182"
+      },
+      {
+        "name": "Davoa Capital II",
+        "address": "0xcf1Ba0985f328b894cA55697C0fC2a39058a5B8A"
+      }
+    ],
+    "issuerEmail": "investors@1754.finance"
   }
 }

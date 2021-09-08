@@ -45,6 +45,13 @@
         "Forum Discussion": "https://gov.centrifuge.io/t/community-introduction-databased-finance/1818",
         "Website": "https://www.databased.finance/"
       }
-    }
+    },
+    "juniorInvestors": [
+      {
+        "name": "databased.FINANCE",
+        "address": "0x50D694FCc135390a39F8401f7149e70D0DC95B38"
+      }
+    ],
+    "issuerEmail": "legal@databased.finance"
   }
 }
