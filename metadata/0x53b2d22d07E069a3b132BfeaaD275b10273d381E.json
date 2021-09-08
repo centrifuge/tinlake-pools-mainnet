@@ -60,6 +60,7 @@
         "name": "New Silver",
         "address": "0x5FA143D3790EECd8743362A305C45200BBdE4e7D"
       }
-    ]
+    ],
+    "issuerEmail": "investors@newsilver.com"
   }
 }

@@ -64,6 +64,7 @@
         "name": "Corl",
         "address": "0x352A67B1a13d49911Cd6267a83A5638D47aFccd5"
       }
-    ]
+    ],
+    "issuerEmail": "ir@fortunafi.com"
   }
 }

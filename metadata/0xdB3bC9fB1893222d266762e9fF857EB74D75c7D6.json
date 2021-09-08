@@ -60,6 +60,7 @@
         "name": "ConsolFreight",
         "address": "0xc410E6AcB488cc055AFc9c81eE193BED12Cd0615"
       }
-    ]
+    ],
+    "issuerEmail": "ernesto@consolfreight.com"
   }
 }
