@@ -54,6 +54,16 @@
     "maker": {
       "ilk": "RWA005-A",
       "minNonMakerDropShare": 0.25
-    }
+    },
+    "juniorInvestors": [
+      {
+        "name": "Fortunafi",
+        "address": "0x0D9EE621A25004aF32B6FFf60B36f9cA4B050A4b"
+      },
+      {
+        "name": "Corl",
+        "address": "0x352A67B1a13d49911Cd6267a83A5638D47aFccd5"
+      }
+    ]
   }
 }

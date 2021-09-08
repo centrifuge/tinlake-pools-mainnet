@@ -45,6 +45,16 @@
         "Forum Discussion": "https://gov.centrifuge.io/t/community-introduction-1754-factory/387",
         "Website": "https://www.1754.finance/"
       }
-    }
+    },
+    "juniorInvestors": [
+      {
+        "name": "Davoa Capital",
+        "address": "0x7bE0D4A72900E0Da08149a822963850Fe8F997aD"
+      },
+      {
+        "name": "Davoa Capital II",
+        "address": "0xcf1Ba0985f328b894cA55697C0fC2a39058a5B8A"
+      }
+    ]
   }
 }

@@ -54,6 +54,12 @@
     "maker": {
       "ilk": "RWA004-A",
       "minNonMakerDropShare": 0.25
-    }
+    },
+    "juniorInvestors": [
+      {
+        "name": "Harbor Trade Credit",
+        "address": "0x24CfBa1983FAe1dBab728caeF8ED143FCb41a670"
+      }
+    ]
   }
 }

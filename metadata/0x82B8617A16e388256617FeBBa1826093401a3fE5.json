@@ -45,6 +45,12 @@
         "Forum Discussion": "https://gov.centrifuge.io/t/community-introduction-paperchain/484",
         "Website": "https://paperchain.io/"
       }
-    }
+    },
+    "juniorInvestors": [
+      {
+        "name": "Paperchain",
+        "address": "0x47a503321E7b29Cc568093156f9676310f8a2583"
+      }
+    ]
   }
 }
