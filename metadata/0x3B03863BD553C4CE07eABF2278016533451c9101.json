@@ -1,0 +1,60 @@
+{
+  "network": "mainnet",
+  "version": 3,
+  "addresses": {
+    "ROOT_CONTRACT": "0x3B03863BD553C4CE07eABF2278016533451c9101",
+    "TINLAKE_CURRENCY": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "TITLE": "0xf0d62783ba600eA999AbcB9018A54c21B1BF6f39",
+    "PILE": "0x696866ea53C0f521C24a28D92fAbD2c559182D38",
+    "SHELF": "0x5621d692DEEea943C0c694dC3000E32d3CE28bA7",
+    "FEED": "0x431548e6f14134b7e2955c4F2d42054f7588aFCE",
+    "JUNIOR_OPERATOR": "0x1071436D218b90dEa5a39851fAb65FAa820a3CE2",
+    "SENIOR_OPERATOR": "0x220b226655766DA48afc9b8330431d71176D5733",
+    "JUNIOR_TRANCHE": "0xC37A80dDE852F3BD281Eb2383B435C053127243d",
+    "SENIOR_TRANCHE": "0x536642C7D0d51A67975222ff66F1E148482D11e8",
+    "JUNIOR_TOKEN": "0x715908cf310A741F085E8487Ae981a0c2fF15F93",
+    "SENIOR_TOKEN": "0xB4c017D5b20A5A1C25F6223eB5D920bd1577C850",
+    "JUNIOR_MEMBERLIST": "0xA9f3739C1463E8f564967Ecf17BbF0486dEA687d",
+    "SENIOR_MEMBERLIST": "0x550dA10280d8364ceC6e2b3f71827D036821443E",
+    "ASSESSOR": "0x909127EEec2797804ee62E196e6e731D6eb2d037",
+    "POOL_ADMIN": "0xe6fA27c3071ADACf5dF225443d34963bfFDf06aB",
+    "COORDINATOR": "0xBb2C5ac27d6c36387c902EA5DAcf2Eb9d95A35B2",
+    "RESERVE": "0xB15cCB81F633B98845a0F6C91a89483298A41cC3",
+    "MAKER_MGR": "0x70033d22835a26E97D85A4fbFb0bE2BFfa506108",
+    "MKR_VAT": "0x35D1b3F3D7966A1DFe207aa4514C12a259A0492B",
+    "MKR_JUG": "0x19c0976f590D67707E62397C87829d896Dc0f1F1",
+    "CLERK": "0xc52cE72F0389eCa976067E39C9eD1F918a8aD1d8",
+    "ACTIONS": "0x80F33ED0A69935dd74310b9D0009D0BA647Cf223",
+    "PROXY_REGISTRY": "0xC9045c815bF123ad12EA75b9A7c579C1e05051f9"
+  },
+  "metadata": {
+    "name": "Cauris Global Fintech Fund 1",
+    "shortName": "Cauris Global Fintech 1",
+    "slug": "cauris-fintech-1",
+    "description": "Cauris is a technology enabled company that has a mission to give access to capital to 100 millions people across the world. The company provides secured loans to fintechs located in the Global South and Europe. Cauris was founded in 2021 and has since originated over $5M in loans that impacted over 300 000 borrowers to date. This Tinlake pool will consist of tranches of secured debentures with a maturity of 1-3 years. These debentures are backed by a portfolio of loans made to fintech companies that lend to consumers and small businesses in the Global South and Europe.",
+    "media": {
+      "logo": "https://storage.googleapis.com/tinlake/pool-media/cauris-1/logo.svg",
+      "icon": "https://storage.googleapis.com/tinlake/pool-media/cauris-1/icon.svg",
+      "drop": "https://storage.googleapis.com/tinlake/pool-media/cauris-1/drop.svg",
+      "tin": "https://storage.googleapis.com/tinlake/pool-media/cauris-1/tin.svg"
+    },
+    "asset": "Fintech Debt Financing",
+    "assetMaturity": "2 to 3 years",
+    "attributes": {
+      "Issuer": "Cauris Global Fintech LLC",
+      "Links": {
+        "Executive Summary": "https://storage.googleapis.com/tinlake/docs/summaries/CGFF1.pdf",
+        "Discussion on Discourse": "https://gov.centrifuge.io/t/issuer-cauris-global/2746",
+        "Website": "https://www.caurisfinance.com/"
+      }
+    },
+    "juniorInvestors": [
+      {
+        "name": "Cauris",
+        "address": "0x21a3f65A25E6737466f8042a197E85f5F0f573D9"
+      }
+    ],
+    "issuerEmail": "investor@caurisfinance.com",
+    "isUpcoming": false
+  }
+}
