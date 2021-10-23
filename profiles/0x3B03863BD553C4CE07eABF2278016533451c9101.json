@@ -3,7 +3,7 @@
     {
       "name": "DROP Subscription Agreement",
       "provider": "docusign",
-      "providerTemplateId": "b8014641-0690-412d-9dc4-4730c448beff",
+      "providerTemplateId": "dc40a8a0-4c82-4f2a-9616-09b424127022",
       "tranche": "senior",
       "country": "non-us",
       "target": "individual"
@@ -11,7 +11,7 @@
     {
       "name": "DROP Subscription Agreement",
       "provider": "docusign",
-      "providerTemplateId": "d40cf76e-19dc-417b-9d8a-219a61806a27",
+      "providerTemplateId": "8661d00e-feb3-46b6-ae21-156af4dad2f6",
       "tranche": "senior",
       "country": "us",
       "target": "individual"
@@ -19,7 +19,7 @@
     {
       "name": "DROP Subscription Agreement",
       "provider": "docusign",
-      "providerTemplateId": "0e3fbd15-3bf1-4660-9e00-5bc5432098f4",
+      "providerTemplateId": "53d8b994-f577-49a2-b862-9133ad57f081",
       "tranche": "senior",
       "country": "non-us",
       "target": "entity"
@@ -27,7 +27,7 @@
     {
       "name": "DROP Subscription Agreement",
       "provider": "docusign",
-      "providerTemplateId": "28a67e77-8467-4fac-99cb-92d0bb6d907f",
+      "providerTemplateId": "bcd62641-cf37-4b99-abfa-d2c7bd579571",
       "tranche": "senior",
       "country": "us",
       "target": "entity"
@@ -35,7 +35,7 @@
     {
       "name": "TIN Subscription Agreement",
       "provider": "docusign",
-      "providerTemplateId": "b39205fc-df08-4924-80e7-f2f42119fddd",
+      "providerTemplateId": "93abe15c-0cd9-4975-b0b7-5e16135d9efd",
       "tranche": "junior",
       "country": "non-us",
       "target": "individual"
@@ -43,7 +43,7 @@
     {
       "name": "TIN Subscription Agreement",
       "provider": "docusign",
-      "providerTemplateId": "76446d63-1261-4b75-ba7b-8dc40c14b6ec",
+      "providerTemplateId": "b636ea82-c86d-4813-9786-6b55ae88bfbe",
       "tranche": "junior",
       "country": "us",
       "target": "individual"
@@ -51,7 +51,7 @@
     {
       "name": "TIN Subscription Agreement",
       "provider": "docusign",
-      "providerTemplateId": "0e9da772-77e4-468d-853b-4c55360ffc0f",
+      "providerTemplateId": "39fff317-f76a-4836-a367-39835ba791e6",
       "tranche": "junior",
       "country": "non-us",
       "target": "entity"
@@ -59,20 +59,20 @@
     {
       "name": "TIN Subscription Agreement",
       "provider": "docusign",
-      "providerTemplateId": "22c0dff3-60da-49bb-b708-e82116770a80",
+      "providerTemplateId": "700fc5d5-8045-4e40-82a0-93c36d384533",
       "tranche": "junior",
       "country": "us",
       "target": "entity"
     }
   ],
   "issuer": {
-    "name": "UP Series LLC",
-    "email": "contact@untangled.finance",
+    "name": "Cauris Series LLC",
+    "email": "investor@caurisfinance.com",
     "restrictedCountryCodes": [],
     "minInvestmentCurrency": "5000000000000000000000",
     "nonSolicitationNotice": "non-us"
   },
   "bot": {
-    "channelId": "C0256C8N924"
+    "channelId": "C01T88LHE8H"
   }
 }
