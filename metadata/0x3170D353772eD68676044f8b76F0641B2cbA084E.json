@@ -1,0 +1,65 @@
+{
+  "network": "mainnet",
+  "version": 3,
+  "addresses": {
+    "ROOT_CONTRACT": "0x3170D353772eD68676044f8b76F0641B2cbA084E",
+    "TINLAKE_CURRENCY": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "TITLE": "0xCa81df5453D767909c61D43704f2EaF240E8A828",
+    "PILE": "0x2bD53Bd2341329e0cf36c55380A77a3E457028Ca",
+    "SHELF": "0x720E872De93F3416bD0d43d3ACA6891f26D60797",
+    "FEED": "0x3263b3A84543abFcECa35aB1b02c6aB4F1E66b17",
+    "JUNIOR_OPERATOR": "0xA3f0B0c80789856061adbDA68Ab66eAef07514F5",
+    "SENIOR_OPERATOR": "0xEa7AD1f48cAe854CB07D564cF7233F402E6f1468",
+    "JUNIOR_TRANCHE": "0x7ABFc7566050eAD811d364ec5F372c13Da2187A3",
+    "SENIOR_TRANCHE": "0x48CbC5464e3660FDFBEa29D0bfa6BaE1fd6a160c",
+    "JUNIOR_TOKEN": "0x0754576bd4e5078e6eB8B0D57346f8eB135C256A",
+    "SENIOR_TOKEN": "0x09bE88eB18bc1659BB1d6Ec7d8F1d37aeEdf4756",
+    "JUNIOR_MEMBERLIST": "0x2733629D551539Da463930057983B478f38cD321",
+    "SENIOR_MEMBERLIST": "0x80f233E84D4d4240df3b9E4CB8E63a50c5368826",
+    "ASSESSOR": "0x038a0a70E99D2fD12d7D9FeFD912c9A8E670eB83",
+    "POOL_ADMIN": "0xc436aFec7e0c08dD76f5B7C1357bb8eF5fa49ec2",
+    "COORDINATOR": "0x9112eCd9153329FD60a9627d7139b68648824ddB",
+    "RESERVE": "0x101e8F7598639BF3d1320AC9999977A0678AA186",
+    "MEMBER_ADMIN": "0xB7e70B77f6386Ffa5F55DDCb53D87A0Fb5a2f53b",
+    "MAKER_MGR": "0x711400121ecC6e87936BcA5385bA417392628BC4",
+    "MKR_VAT": "0x35D1b3F3D7966A1DFe207aa4514C12a259A0492B",
+    "MKR_JUG": "0x19c0976f590D67707E62397C87829d896Dc0f1F1",
+    "CLERK": "0x3123A0EF2998B791c2735e50C8Fb586f55e9cc4B",
+    "ACTIONS": "0x80F33ED0A69935dd74310b9D0009D0BA647Cf223",
+    "PROXY_REGISTRY": "0xC9045c815bF123ad12EA75b9A7c579C1e05051f9"
+  },
+  "versions": {
+    "FEED": 2,
+    "POOL_ADMIN": 2
+  },
+  "metadata": {
+    "name": "Fortunafi Series 2",
+    "shortName": "Fortunafi 2",
+    "slug": "fortunafi-2",
+    "description": "Fortunafi is a capital provider bringing real-world assets to DeFi. The Fortunafi Series 2 pool focuses on income generating assets primarily consisting of various structured loans, secured loans, or mezzanine financings, across a variety of sectors. Assets are originated mainly by established financial institutions which have over one billion dollars in assets under management, or an operating history including transactions with an aggregate value in excess of one billion dollars. Assets in this Tinlake pool have a maturity of 2-4 years.",
+    "media": {
+      "logo": "https://storage.googleapis.com/tinlake/pool-media/fortunafi-2/logo.svg",
+      "icon": "https://storage.googleapis.com/tinlake/pool-media/fortunafi-2/icon.svg",
+      "drop": "https://storage.googleapis.com/tinlake/pool-media/fortunafi-2/drop.svg",
+      "tin": "https://storage.googleapis.com/tinlake/pool-media/fortunafi-2/tin.svg"
+    },
+    "assetMaturity": "2 to 4 years",
+    "attributes": {
+      "Issuer": "Fortunafi Asset Management LLC (Series 2)",
+      "Links": {
+        "Discussion on Discourse": "https://gov.centrifuge.io/t/issuer-fortunafi/394",
+        "Website": "https://www.fortunafi.com/"
+      }
+    },
+    "asset": "Institutional Loans",
+    "currencySymbol": "DAI",
+    "juniorInvestors": [
+      {
+        "name": "Fortunafi",
+        "address": "0xDD4c1dDFD646aD6c71409BAE38a372025F170397"
+      }
+    ],
+    "issuerEmail": "FAM2@fortunafi.com",
+    "isUpcoming": true
+  }
+}
