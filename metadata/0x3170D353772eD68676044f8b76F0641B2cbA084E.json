@@ -38,10 +38,10 @@
     "slug": "fortunafi-2",
     "description": "Fortunafi is a capital provider bringing real-world assets to DeFi. The Fortunafi Series 2 pool focuses on income generating assets primarily consisting of various structured loans, secured loans, or mezzanine financings, across a variety of sectors. Assets are originated mainly by established financial institutions which have over one billion dollars in assets under management, or an operating history including transactions with an aggregate value in excess of one billion dollars. Assets in this Tinlake pool have a maturity of 2-4 years.",
     "media": {
-      "logo": "https://storage.googleapis.com/tinlake/pool-media/fortunafi-2/logo.svg",
-      "icon": "https://storage.googleapis.com/tinlake/pool-media/fortunafi-2/icon.svg",
-      "drop": "https://storage.googleapis.com/tinlake/pool-media/fortunafi-2/drop.svg",
-      "tin": "https://storage.googleapis.com/tinlake/pool-media/fortunafi-2/tin.svg"
+      "logo": "https://storage.googleapis.com/tinlake/pool-media/fortunafi-2/logo.png",
+      "icon": "https://storage.googleapis.com/tinlake/pool-media/fortunafi-2/icon.png",
+      "drop": "https://storage.googleapis.com/tinlake/pool-media/fortunafi-2/drop.png",
+      "tin": "https://storage.googleapis.com/tinlake/pool-media/fortunafi-2/tin.png"
     },
     "assetMaturity": "2 to 4 years",
     "attributes": {
