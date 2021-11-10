@@ -1,0 +1,12 @@
+{
+  "issuer": {
+    "name": "Fortunafi",
+    "email": "ir@fortunafi.com",
+    "restrictedCountryCodes": [],
+    "minInvestmentCurrency": "5000000000000000000000",
+    "nonSolicitationNotice": "non-us"
+  },
+  "bot": {
+    "channelId": "C018FK78ESK"
+  }
+}

@@ -38,6 +38,7 @@
     },
     "asset": "Music Streaming Invoices",
     "assetMaturity": "45 to 60 days",
+    "isArchived": true,
     "attributes": {
       "Issuer": "Paperchain LLC (Series 3)",
       "Links": {

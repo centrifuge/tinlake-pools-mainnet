@@ -11,7 +11,7 @@
     "FEED": "0xcAB9ed8e5EF4607A97f4e22Ad1D984ADB93ce890",
     "JUNIOR_OPERATOR": "0x0B5Fb20BF5381A92Dd026208f4177a2Af85DACB9",
     "SENIOR_OPERATOR": "0x3247f0d72303567A313FC87d04E533a845d1ba5A",
-    "JUNIOR_TRANCHE": "0xc3e80961386D0C52C0988c12C6665d3AB2E04f0D",
+    "JUNIOR_TRANCHE": "0x7DA307394B052Af46Aba415289db24177B754C7e",
     "SENIOR_TRANCHE": "0xfc9E18e714c21539456d5f77F7F635781Cf56Af0",
     "JUNIOR_TOKEN": "0xf2dEB8F74C5dDA88CCD606ea88cCD3fC9FC98a1F",
     "SENIOR_TOKEN": "0x44718d306a8Fa89545704Ae38B2B97c06bF11FC1",
@@ -37,9 +37,9 @@
     "description": "Fortunafi Asset Management is a technology enabled revenue based finance provider. Revenue based financing provides capital to small or growing businesses in return for a fixed percentage of ongoing gross revenues. Thus payments increase and decrease based on business revenues, typically measured as monthly revenue. Usually the returns to the investor continue until the initial capital amount, plus a multiple (also known as a cap) is repaid. This Tinlake pool is composed of a portfolio of revenue based financing agreements with an average maturity of twenty four months.",
     "media": {
       "logo": "https://storage.googleapis.com/tinlake/pool-media/fortunafi-1/logo.png",
-      "icon": "https://storage.googleapis.com/tinlake/pool-media/fortunafi-1/icon.svg",
-      "drop": "https://storage.googleapis.com/tinlake/pool-media/fortunafi-1/drop.svg",
-      "tin": "https://storage.googleapis.com/tinlake/pool-media/fortunafi-1/tin.svg"
+      "icon": "https://storage.googleapis.com/tinlake/pool-media/fortunafi-1/icon.png",
+      "drop": "https://storage.googleapis.com/tinlake/pool-media/fortunafi-1/drop.png",
+      "tin": "https://storage.googleapis.com/tinlake/pool-media/fortunafi-1/tin.png"
     },
     "asset": "Revenue Based Financing",
     "assetMaturity": "24 months",
