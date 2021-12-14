@@ -19,7 +19,7 @@
   ],
   "issuer": {
     "name": "DeFi Bridge LLC",
-    "email": "aave-kyc@end-labs.io",
+    "email": "rwamarket@end-labs.io",
     "restrictedCountryCodes": ["us"],
     "minInvestmentCurrency": "5000000000000000000000",
     "nonSolicitationNotice": "non-us"
