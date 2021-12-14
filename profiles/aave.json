@@ -3,22 +3,24 @@
     {
       "name": "DROP Subscription Agreement",
       "provider": "docusign",
-      "providerTemplateId": "5cb3ff66-2898-45b6-8d27-a4b9085367eb",
+      "providerTemplateId": "a4f7d075-89ec-49c5-9165-d5b136cf2416",
       "tranche": "senior",
-      "country": "us"
+      "country": "non-us",
+      "target": "individual"
     },
     {
       "name": "DROP Subscription Agreement",
       "provider": "docusign",
-      "providerTemplateId": "4742c326-3ca2-4e5f-9aea-0b3946eddf2e",
+      "providerTemplateId": "820adff6-ec0e-4adb-a66c-28531048dacf",
       "tranche": "senior",
-      "country": "non-us"
+      "country": "non-us",
+      "target": "entity"
     }
   ],
   "issuer": {
-    "name": "END_Bridge LLC",
+    "name": "RWA Market LLC",
     "email": "investors@end-bridge.com",
-    "restrictedCountryCodes": [],
+    "restrictedCountryCodes": ["us"],
     "minInvestmentCurrency": "5000000000000000000000",
     "nonSolicitationNotice": "non-us"
   },
