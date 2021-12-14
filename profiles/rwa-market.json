@@ -1,7 +1,7 @@
 {
   "agreements": [
     {
-      "name": "DROP Subscription Agreement",
+      "name": "Subscription Agreement",
       "provider": "docusign",
       "providerTemplateId": "a4f7d075-89ec-49c5-9165-d5b136cf2416",
       "tranche": "senior",
@@ -9,7 +9,7 @@
       "target": "individual"
     },
     {
-      "name": "DROP Subscription Agreement",
+      "name": "Subscription Agreement",
       "provider": "docusign",
       "providerTemplateId": "820adff6-ec0e-4adb-a66c-28531048dacf",
       "tranche": "senior",
@@ -19,7 +19,7 @@
   ],
   "issuer": {
     "name": "DeFi Bridge LLC",
-    "email": "investors@end-bridge.com",
+    "email": "aave-kyc@end-labs.io",
     "restrictedCountryCodes": ["us"],
     "minInvestmentCurrency": "5000000000000000000000",
     "nonSolicitationNotice": "non-us"
