@@ -31,7 +31,7 @@
     "name": "REIF Pool",
     "shortName": "REIF Pool",
     "slug": "reif-pool-1",
-    "description": "REIF Financial Investments Inc. (REIF) is an asset management company focusing on acquiring commercial real estate assets from established asset originators. REIF was founded in 2021. REIF will loan capital secured by real estate to finance commercial and construction projects. This pool will consist of a portfolio of first and second secured position commercial real estate loans. The initial asset originator is Forge & Foster, a commercial real estate developer based in Ontario, Canada with $250 million CAD in assets under management of commercial real estate. The average maturity of assets is 540 days.",
+    "description": "REIF Financial Investments Inc. (REIF) is an asset management company focusing on acquiring commercial real estate assets from established asset originators. REIF was founded in 2021. REIF will loan capital secured by real estate to finance commercial and construction projects. This pool will consist of a portfolio of first and second secured position commercial real estate loans. The initial asset originator is Forge & Foster, a commercial real estate developer based in Ontario, Canada with $250 million CAD in assets under management of commercial real estate. The average maturity of assets is 18 months.",
     "currencySymbol": "DAI",
     "media": {
       "logo": "https://storage.googleapis.com/tinlake/pool-media/reif-pool-1/Brand%3DReiflogo.svg",
@@ -55,7 +55,7 @@
         "address": "0xcCD578cF906D2fd5a72071bD6FaAA2Be730a012B"
       }
     ],
-    "issuerEmail": "finance@corl.io",
+    "issuerEmail": "hello@reif.finance",
     "isUpcoming": false
   }
 }
