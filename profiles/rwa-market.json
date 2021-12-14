@@ -18,7 +18,7 @@
     }
   ],
   "issuer": {
-    "name": "RWA Market LLC",
+    "name": "DeFi Bridge LLC",
     "email": "investors@end-bridge.com",
     "restrictedCountryCodes": ["us"],
     "minInvestmentCurrency": "5000000000000000000000",
