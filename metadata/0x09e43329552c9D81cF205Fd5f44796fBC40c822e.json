@@ -40,7 +40,7 @@
       "tin": "https://storage.googleapis.com/tinlake/pool-media/reif-pool-1/TokenTIN.svg"
     },
     "asset": "Commercial Real Estate",
-    "assetMaturity": "540 days",
+    "assetMaturity": "18 months",
     "attributes": {
       "Issuer": "REIF Pool LLC",
       "Links": {
