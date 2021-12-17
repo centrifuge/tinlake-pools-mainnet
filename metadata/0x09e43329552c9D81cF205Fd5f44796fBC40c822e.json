@@ -27,6 +27,10 @@
     "ACTIONS": "0x80F33ED0A69935dd74310b9D0009D0BA647Cf223",
     "PROXY_REGISTRY": "0xC9045c815bF123ad12EA75b9A7c579C1e05051f9"
   },
+  "versions": {
+    "FEED": 2,
+    "POOL_ADMIN": 2
+  },
   "metadata": {
     "name": "REIF Pool",
     "shortName": "REIF Pool",
