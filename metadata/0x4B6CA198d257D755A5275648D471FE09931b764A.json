@@ -30,6 +30,9 @@
     "PROXY_REGISTRY": "0xC9045c815bF123ad12EA75b9A7c579C1e05051f9",
     "AO_REWARD_RECIPIENT": "0xB170597E474CC124aE8Fe2b335d0d80E08bC3e37"
   },
+  "versions": {
+    "POOL_ADMIN": 2
+  },
   "metadata": {
     "name": "Fortunafi Series 1",
     "shortName": "Fortunafi 1",
