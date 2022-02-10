@@ -1,0 +1,65 @@
+{
+  "network": "mainnet",
+  "version": 3,
+  "addresses": {
+    "ROOT_CONTRACT": "0xF96F18F2c70b57Ec864cC0C8b828450b82Ff63e3",
+    "TINLAKE_CURRENCY": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "TITLE": "0x8a15d767d03Ae406937370296235597E934321c7",
+    "PILE": "0xE18AAB16cC26EB23740D72875e0C6b52cEbb46b3",
+    "SHELF": "0x11daC3fA9d2216377A79Bef04F6A2682630371c3",
+    "FEED": "0x6fb02533B264d103B84d8f13D11a4865EC96307a",
+    "JUNIOR_OPERATOR": "0xC82BBaB9898dE2F7D81D8B44A12331296EED3913",
+    "SENIOR_OPERATOR": "0x83b2f80BF02cB35860F9f9a0d5Fefdc997c3e391",
+    "JUNIOR_TRANCHE": "0x21f6f9ea9e88E062fe5C7A4722B9504ffE7556E5",
+    "SENIOR_TRANCHE": "0x718ae9fB3003d6921B361a817BC6a206837885eB",
+    "JUNIOR_TOKEN": "0x802eDAF16Fe5892410209149bFE63505Fb946A19",
+    "SENIOR_TOKEN": "0x68480cB5fAD8e274ad1F7E68163aC3DdAE5368Aa",
+    "JUNIOR_MEMBERLIST": "0x12e5CC104c137296578c0C6dE59360be4F4b6678",
+    "SENIOR_MEMBERLIST": "0x39c0835C9691ACcE7e918B6F8F0d119f3ffb6D9D",
+    "ASSESSOR": "0x623419515a24F2F5d9c9d48cA27969aD107E7a6f",
+    "POOL_ADMIN": "0x2337Fc35CAd40a30D5211e9Dffd8D9Ea954D075B",
+    "COORDINATOR": "0x4aE8ECE935CB32febb952c58bD7B3Bb392cb0434",
+    "RESERVE": "0x35F7dE72c8597599ef4F2a18EAfd162257301435",
+    "MAKER_MGR": "0xB7ba5760919FeF2EaaeA8B1C0326e842d50bcE28",
+    "MKR_VAT": "0x35D1b3F3D7966A1DFe207aa4514C12a259A0492B",
+    "MKR_JUG": "0x19c0976f590D67707E62397C87829d896Dc0f1F1",
+    "CLERK": "0x0417A6c371B58d32c63d0888e4827af8087F3D9A",
+    "ACTIONS": "0x80F33ED0A69935dd74310b9D0009D0BA647Cf223",
+    "PROXY_REGISTRY": "0xC9045c815bF123ad12EA75b9A7c579C1e05051f9"
+  },
+  "versions": {
+    "FEED": 2,
+    "POOL_ADMIN": 2
+  },
+  "metadata": {
+    "name": "ALT 1.0 SPV",
+    "shortName": "ALT 1.0",
+    "slug": "alt-1",
+    "description": "Alternative is reimagining financial services, beginning with lending, to provide companies with simple, customizable financing solutions. We are fully tech-enabled and offer solutions directly to businesses as well as to a businesses’ end-customers. Our solutions are unique, simplistic and streamline the entire financing process so that companies may access funding on their terms.",
+    "currencySymbol": "DAI",
+    "media": {
+      "logo": "REPLACE",
+      "icon": "REPLACE",
+      "drop": "REPLACE",
+      "tin": "REPLACE"
+    },
+    "asset": "Invoice financing and accounts receivable",
+    "assetMaturity": "6-12 months",
+    "attributes": {
+      "Issuer": "ALT 1.0 SPV, LLC",
+      "Links": {
+        "Executive Summary": "https://storage.googleapis.com/tinlake/pool-media/alt-1/2022.01%20-%20Alternative%20-%20Centrifuge%20-%20Executive%20Summary%20vF.pdf",
+        "Discussion on Discourse": "REPLACE",
+        "Website": "Alternative.co"
+      }
+    },
+    "juniorInvestors": [
+      {
+        "name": "REPLACE",
+        "address": "REPLACE TIN ADDRESS"
+      }
+    ],
+    "issuerEmail": "baxter@alternative.co",
+    "isUpcoming": true
+  }
+}
