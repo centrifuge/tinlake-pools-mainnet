@@ -1,0 +1,78 @@
+{
+  "agreements": [
+    {
+      "name": "DROP Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "212f7bf7-95b1-4d8e-8ab3-ec17172bd1a0",
+      "tranche": "senior",
+      "country": "non-us",
+      "target": "individual"
+    },
+    {
+      "name": "DROP Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "7f40b98e-f058-4a76-8981-bcdd8d422717",
+      "tranche": "senior",
+      "country": "us",
+      "target": "individual"
+    },
+    {
+      "name": "DROP Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "e17f0bc9-673f-497f-bf2d-66466ffd9592",
+      "tranche": "senior",
+      "country": "non-us",
+      "target": "entity"
+    },
+    {
+      "name": "DROP Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "2a5b12ce-02c5-4eee-b0c8-9f7fd9d002e1",
+      "tranche": "senior",
+      "country": "us",
+      "target": "entity"
+    },
+    {
+      "name": "TIN Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "a8bd3cd0-19d9-4a63-9bb1-170eb4afb653",
+      "tranche": "junior",
+      "country": "non-us",
+      "target": "individual"
+    },
+    {
+      "name": "TIN Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "7963ee89-fee1-4cbe-8ee4-9577254932ec",
+      "tranche": "junior",
+      "country": "us",
+      "target": "individual"
+    },
+    {
+      "name": "TIN Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "77127ac0-0b0f-4431-b33e-e23efbc61b16",
+      "tranche": "junior",
+      "country": "non-us",
+      "target": "entity"
+    },
+    {
+      "name": "TIN Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "f59ba104-4322-48ce-8ff3-bc2e1538e0d1",
+      "tranche": "junior",
+      "country": "us",
+      "target": "entity"
+    }
+  ],
+  "issuer": {
+    "name": "ALT 1.0 SPV, LLC",
+    "email": "baxter@alternative.co",
+    "restrictedCountryCodes": [],
+    "minInvestmentCurrency": "5000000000000000000000",
+    "nonSolicitationNotice": "non-us"
+  },
+  "bot": {
+    "channelId": "C0320DJ1GD6"
+  }
+}
