@@ -43,14 +43,14 @@
       "drop": "https://storage.googleapis.com/tinlake/pool-media/alt-1/dropsvg.svg",
       "tin": "https://storage.googleapis.com/tinlake/pool-media/alt-1/tinsvg.svg"
     },
-    "asset": "Invoice financing and accounts receivable",
-    "assetMaturity": "6-12 months",
+    "asset": "Invoice Financing and Accounts Receivable",
+    "assetMaturity": "6 to 12 months",
     "attributes": {
       "Issuer": "ALT 1.0 SPV, LLC",
       "Links": {
         "Executive Summary": "https://storage.googleapis.com/tinlake/docs/summaries/ALT1.pdf",
         "Discussion on Discourse": "https://gov.centrifuge.io/t/issuer-alt-1-0-spv/3506",
-        "Website": "Alternative.co"
+        "Website": "https://www.alternative.co"
       }
     },
     "juniorInvestors": [
