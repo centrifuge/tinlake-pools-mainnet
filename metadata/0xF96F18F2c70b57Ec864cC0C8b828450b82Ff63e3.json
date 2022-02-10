@@ -38,25 +38,25 @@
     "description": "Alternative is reimagining financial services, beginning with lending, to provide companies with simple, customizable financing solutions. We are fully tech-enabled and offer solutions directly to businesses as well as to a businesses’ end-customers. Our solutions are unique, simplistic and streamline the entire financing process so that companies may access funding on their terms.",
     "currencySymbol": "DAI",
     "media": {
-      "logo": "REPLACE",
-      "icon": "REPLACE",
-      "drop": "REPLACE",
-      "tin": "REPLACE"
+      "logo": "https://storage.googleapis.com/tinlake/pool-media/alt-1/logo.svg",
+      "icon": "https://storage.googleapis.com/tinlake/pool-media/alt-1/iconsvg.svg",
+      "drop": "https://storage.googleapis.com/tinlake/pool-media/alt-1/dropsvg.svg",
+      "tin": "https://storage.googleapis.com/tinlake/pool-media/alt-1/tinsvg.svg"
     },
     "asset": "Invoice financing and accounts receivable",
     "assetMaturity": "6-12 months",
     "attributes": {
       "Issuer": "ALT 1.0 SPV, LLC",
       "Links": {
-        "Executive Summary": "https://storage.googleapis.com/tinlake/pool-media/alt-1/2022.01%20-%20Alternative%20-%20Centrifuge%20-%20Executive%20Summary%20vF.pdf",
-        "Discussion on Discourse": "REPLACE",
+        "Executive Summary": "https://storage.googleapis.com/tinlake/docs/summaries/ALT1.pdf",
+        "Discussion on Discourse": "https://gov.centrifuge.io/t/issuer-alt-1-0-spv/3506",
         "Website": "Alternative.co"
       }
     },
     "juniorInvestors": [
       {
-        "name": "REPLACE",
-        "address": "REPLACE TIN ADDRESS"
+        "name": "ALT1",
+        "address": "0x9a82f192e3d9beE21927B2F7b45d9c6dcD7c7af0"
       }
     ],
     "issuerEmail": "baxter@alternative.co",
