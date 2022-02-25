@@ -62,5 +62,8 @@
     ],
     "issuerEmail": "baxter@alternative.co",
     "isUpcoming": true
+  },
+  "bot": {
+    "channelId": "C0320DJ1GD6"
   }
 }
