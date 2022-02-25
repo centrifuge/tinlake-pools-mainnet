@@ -61,8 +61,5 @@
     ],
     "issuerEmail": "hello@reif.finance",
     "isUpcoming": false
-  },
-  "bot": {
-    "channelId": "C02G21W9Q9G"
   }
 }

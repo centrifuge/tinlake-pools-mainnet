@@ -61,8 +61,5 @@
     ],
     "issuerEmail": "investor@caurisfinance.com",
     "isUpcoming": false
-  },
-  "bot": {
-    "channelId": "C01T88LHE8H"
   }
 }
