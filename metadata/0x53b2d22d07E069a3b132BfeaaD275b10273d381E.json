@@ -30,6 +30,9 @@
     "MCD_JUG": "0x19c0976f590D67707E62397C87829d896Dc0f1F1",
     "AO_REWARD_RECIPIENT": "0x7Cae9bD865610750a48575aF15CAFe1e460c96a8"
   },
+  "versions": {
+    "FEED": 2
+  },
   "metadata": {
     "name": "New Silver Series 2",
     "shortName": "New Silver 2",
