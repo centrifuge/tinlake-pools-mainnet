@@ -31,7 +31,7 @@
     "AO_REWARD_RECIPIENT": "0x7Cae9bD865610750a48575aF15CAFe1e460c96a8"
   },
   "versions": {
-    "FEED": 2
+    "POOL_ADMIN": 2
   },
   "metadata": {
     "name": "New Silver Series 2",
