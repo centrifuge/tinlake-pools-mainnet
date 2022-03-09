@@ -60,7 +60,6 @@
         "address": "0x9a82f192e3d9beE21927B2F7b45d9c6dcD7c7af0"
       }
     ],
-    "issuerEmail": "baxter@alternative.co",
-    "isUpcoming": true
+    "issuerEmail": "baxter@alternative.co"
   }
 }
