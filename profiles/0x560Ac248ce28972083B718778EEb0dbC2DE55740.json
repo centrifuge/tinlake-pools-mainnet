@@ -3,16 +3,34 @@
     {
       "name": "DROP Subscription Agreement",
       "provider": "docusign",
-      "providerTemplateId": "e022c31f-7d7e-439b-a47c-d9aa554f2bd8",
+      "providerTemplateId": "892cad87-9734-4e16-bcac-f70dbe91356a",
       "tranche": "senior",
-      "country": "us"
+      "country": "non-us",
+      "target": "individual"
     },
     {
       "name": "DROP Subscription Agreement",
       "provider": "docusign",
-      "providerTemplateId": "892cad87-9734-4e16-bcac-f70dbe91356a",
+      "providerTemplateId": "e022c31f-7d7e-439b-a47c-d9aa554f2bd8",
       "tranche": "senior",
-      "country": "non-us"
+      "country": "us",
+      "target": "individual"
+    },
+    {
+      "name": "DROP Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "5586a426-e557-4e6c-80c6-d3b895fbb4ee",
+      "tranche": "senior",
+      "country": "non-us",
+      "target": "entity"
+    },
+    {
+      "name": "DROP Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "39f62260-7b85-494c-8415-c7404bf9e767",
+      "tranche": "senior",
+      "country": "us",
+      "target": "entity"
     }
   ],
   "issuer": {

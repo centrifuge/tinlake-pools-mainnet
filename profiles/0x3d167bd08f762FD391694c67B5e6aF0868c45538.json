@@ -3,16 +3,66 @@
     {
       "name": "DROP Subscription Agreement",
       "provider": "docusign",
-      "providerTemplateId": "5cb3ff66-2898-45b6-8d27-a4b9085367eb",
+      "providerTemplateId": "4742c326-3ca2-4e5f-9aea-0b3946eddf2e",
       "tranche": "senior",
-      "country": "us"
+      "country": "non-us",
+      "target": "individual"
     },
     {
       "name": "DROP Subscription Agreement",
       "provider": "docusign",
-      "providerTemplateId": "4742c326-3ca2-4e5f-9aea-0b3946eddf2e",
+      "providerTemplateId": "5cb3ff66-2898-45b6-8d27-a4b9085367eb",
       "tranche": "senior",
-      "country": "non-us"
+      "country": "us",
+      "target": "individual"
+    },
+    {
+      "name": "DROP Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "1f3ffbf4-5861-4876-b196-a7b974aae022",
+      "tranche": "senior",
+      "country": "non-us",
+      "target": "entity"
+    },
+    {
+      "name": "DROP Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "4b7216d9-b1f4-4add-a9df-1c4bd900f2ec",
+      "tranche": "senior",
+      "country": "us",
+      "target": "entity"
+    },
+    {
+      "name": "TIN Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "5c2803a1-341e-4d16-99ff-66505bae9865",
+      "tranche": "junior",
+      "country": "non-us",
+      "target": "individual"
+    },
+    {
+      "name": "TIN Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "81361eff-eb64-49f1-94be-fcf91aa18134",
+      "tranche": "junior",
+      "country": "us",
+      "target": "individual"
+    },
+    {
+      "name": "TIN Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "1d78f1d7-f2ee-41f5-a5fa-16c1fdec5596",
+      "tranche": "junior",
+      "country": "non-us",
+      "target": "entity"
+    },
+    {
+      "name": "TIN Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "f3835e49-491d-403b-ac5c-6c5026a4d8de",
+      "tranche": "junior",
+      "country": "us",
+      "target": "entity"
     }
   ],
   "issuer": {
