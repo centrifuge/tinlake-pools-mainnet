@@ -3,22 +3,66 @@
     {
       "name": "DROP Subscription Agreement",
       "provider": "docusign",
-      "providerTemplateId": "c423d6b4-c3ff-44a1-8948-14823601d7fd",
+      "providerTemplateId": "f930740e-9871-4f15-aeed-175c398f9805",
       "tranche": "senior",
-      "country": "us"
+      "country": "non-us",
+      "target": "individual"
     },
     {
       "name": "DROP Subscription Agreement",
       "provider": "docusign",
-      "providerTemplateId": "3b3a33b8-23fc-40a4-8a4c-d1f5edd52f96",
+      "providerTemplateId": "bd20ae0f-920c-4bb0-a6bd-02db330dde2e",
       "tranche": "senior",
-      "country": "non-us"
+      "country": "us",
+      "target": "individual"
+    },
+    {
+      "name": "DROP Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "38284bbf-3ba6-40ac-ab52-f77fef7cde5f",
+      "tranche": "senior",
+      "country": "non-us",
+      "target": "entity"
+    },
+    {
+      "name": "DROP Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "a003db5a-aff4-404e-aebd-8481568b34a3",
+      "tranche": "senior",
+      "country": "us",
+      "target": "entity"
     },
     {
       "name": "TIN Subscription Agreement",
       "provider": "docusign",
-      "providerTemplateId": "212e4df6-0205-495e-81dc-7d169e5aa6d4",
-      "tranche": "junior"
+      "providerTemplateId": "69dd6a2d-6e55-467a-a863-1fb051b7bd5b",
+      "tranche": "junior",
+      "country": "non-us",
+      "target": "individual"
+    },
+    {
+      "name": "TIN Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "946c8eb7-a97a-4dda-9785-7f4b1509e96b",
+      "tranche": "junior",
+      "country": "us",
+      "target": "individual"
+    },
+    {
+      "name": "TIN Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "1544e8b4-26a2-4da8-8c14-61426dd5ad6c",
+      "tranche": "junior",
+      "country": "non-us",
+      "target": "entity"
+    },
+    {
+      "name": "TIN Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "0b52c3ea-f3c9-4887-9ca6-1ef0f0bac87e",
+      "tranche": "junior",
+      "country": "us",
+      "target": "entity"
     }
   ],
   "issuer": {
