@@ -1,0 +1,78 @@
+{
+  "agreements": [
+    {
+      "name": "DROP Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "2bf0e3a1-350f-4265-827d-12445ac7487b",
+      "tranche": "senior",
+      "country": "non-us",
+      "target": "individual"
+    },
+    {
+      "name": "DROP Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "c5864ae8-254b-464a-9e29-8cb5eabb5562",
+      "tranche": "senior",
+      "country": "us",
+      "target": "individual"
+    },
+    {
+      "name": "DROP Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "516a986e-e36a-4a24-8c01-40b8b5d5d6a4",
+      "tranche": "senior",
+      "country": "non-us",
+      "target": "entity"
+    },
+    {
+      "name": "DROP Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "04048de0-438d-4637-931e-69b1d7ff9f2c",
+      "tranche": "senior",
+      "country": "us",
+      "target": "entity"
+    },
+    {
+      "name": "TIN Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "844bc644-7b02-4848-afe3-340e11f17251",
+      "tranche": "junior",
+      "country": "non-us",
+      "target": "individual"
+    },
+    {
+      "name": "TIN Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "b911b6f9-5ec7-49af-bad1-d743eb54db80",
+      "tranche": "junior",
+      "country": "us",
+      "target": "individual"
+    },
+    {
+      "name": "TIN Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "f4e961c9-a426-414c-8b9d-4eb69ab2e158",
+      "tranche": "junior",
+      "country": "non-us",
+      "target": "entity"
+    },
+    {
+      "name": "TIN Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "215ccfed-c0b6-4471-b30c-f267ad4f75ce",
+      "tranche": "junior",
+      "country": "us",
+      "target": "entity"
+    }
+  ],
+  "issuer": {
+    "name": "Flow Carbon Nature Offsets LLC",
+    "email": "FNO1_Documentation@flowcarbon.com",
+    "restrictedCountryCodes": [],
+    "minInvestmentCurrency": "5000000000000000000000",
+    "nonSolicitationNotice": "non-us"
+  },
+  "bot": {
+    "channelId": "C03BY8R44HF"
+  }
+}
