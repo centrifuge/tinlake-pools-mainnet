@@ -54,6 +54,10 @@
     },
     "asset": "Structured Credit",
     "currencySymbol": "DAI",
+    "maker": {
+      "ilk": "RWA013-A",
+      "minNonMakerDropShare": 0
+    },
     "juniorInvestors": [
       {
         "name": "BlockTower Credit Partners, LP",

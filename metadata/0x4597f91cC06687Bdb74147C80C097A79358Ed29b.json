@@ -54,6 +54,10 @@
     },
     "asset": "Whole Loans",
     "currencySymbol": "DAI",
+    "maker": {
+      "ilk": "RWA010-A",
+      "minNonMakerDropShare": 0
+    },
     "juniorInvestors": [
       {
         "name": "BlockTower Credit Partners, LP",

@@ -54,6 +54,10 @@
     },
     "asset": "Debt Facilities",
     "currencySymbol": "DAI",
+    "maker": {
+      "ilk": "RWA011-A",
+      "minNonMakerDropShare": 0
+    },
     "juniorInvestors": [
       {
         "name": "BlockTower Credit Partners, LP",
