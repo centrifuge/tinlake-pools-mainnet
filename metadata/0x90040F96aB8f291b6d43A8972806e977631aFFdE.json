@@ -1,0 +1,70 @@
+{
+  "network": "mainnet",
+  "version": 3,
+  "addresses": {
+    "ROOT_CONTRACT": "0x90040F96aB8f291b6d43A8972806e977631aFFdE",
+    "TINLAKE_CURRENCY": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "TITLE": "0x03d762Fb8596fCC2842333b321443021Ee4B97B9",
+    "PILE": "0x6af9dA8dB1925F8ef359274A59eF01e1c6Df7bE0",
+    "FEED": "0xeA5E577Df382889497534A0258345E78BbD4e31d",
+    "SHELF": "0xE791898207C129dB963260D6A3b23C8e7B8E31f2",
+    "JUNIOR_TRANCHE": "0x16B2f938568dfC8fEa7CEC55E8270FEC985BdFE2",
+    "JUNIOR_TOKEN": "0x7D8677Ed33525b64Feb7cD86dBDB66B75a6e9ffa",
+    "JUNIOR_OPERATOR": "0x5C2844752B147de8ef6259FC0fe90d4E67F6b68c",
+    "JUNIOR_MEMBERLIST": "0xcC5b31530602Aa2470eE05425B002c30AD24265a",
+    "SENIOR_TRANCHE": "0x8b35c25eD7f60bDeCacA2AC093f1DC8522642B48",
+    "SENIOR_TOKEN": "0x1407e60059121780f05e90D4bCE14B14D003b8EF",
+    "SENIOR_OPERATOR": "0xbaa869bB8964FfB84f897cC52A994816605e84E4",
+    "SENIOR_MEMBERLIST": "0xF25d10F303FFD2Fa50Ef5F8C1Bc257195B301432",
+    "RESERVE": "0xB54900Bcc0674e356627B58420FD051f2D47B9e9",
+    "ASSESSOR": "0xFe37f99cd0597164BFdaBFB7c9f98E4fc44BeF52",
+    "POOL_ADMIN": "0x9B7932c89a3fe5b310480D5154C94eF1C2E92202",
+    "COORDINATOR": "0x1f5C167339BdAA067f87fc9fA8484E12C8fA97C5",
+    "CLERK": "0x17dF3e3722Fc39A6318A0a70127aAceB86b96Da0",
+    "MAKER_MGR": "0x795b917eBe0a812D406ae0f99D71caf36C307e21",
+    "MKR_VAT": "0x35D1b3F3D7966A1DFe207aa4514C12a259A0492B",
+    "MKR_JUG": "0x19c0976f590D67707E62397C87829d896Dc0f1F1",
+    "ACTIONS": "0x80F33ED0A69935dd74310b9D0009D0BA647Cf223",
+    "PROXY_REGISTRY": "0xC9045c815bF123ad12EA75b9A7c579C1e05051f9",
+    "AO_REWARD_RECIPIENT": "0x09C1D389141013a08dD67D495D168Bd067Bc0817"
+  },
+  "versions": {
+    "FEED": 3,
+    "POOL_ADMIN": 2
+  },
+  "metadata": {
+    "name": "BlockTower Series 3",
+    "shortName": "BT3",
+    "slug": "blocktower-3",
+    "description": "BlockTower Credit is the credit franchise of BlockTower Capital, an SEC-registered digital asset and blockchain investment firm founded in 2017. Within BlockTower Credit, we apply the skills of professional underwriting, structuring and investing at the intersection of real-world credit (a massive but anachronistic traditional industry) and crypto. This Tinlake Pool deploys capital into Structured Credit products will have an investment-grade rating and typically maintain a weighted average life (WAL) of less than four years. The Structured Credit products will generally fall into three major buckets: consumer ABS, auto ABS, and CLO.",
+    "media": {
+      "logo": "https://storage.googleapis.com/tinlake/pool-media/blocktower-3/logo.svg",
+      "icon": "https://storage.googleapis.com/tinlake/pool-media/blocktower-3/BT3%20Icon.svg",
+      "drop": "https://storage.googleapis.com/tinlake/pool-media/blocktower-3/BT3%20Drop.svg",
+      "tin": "https://storage.googleapis.com/tinlake/pool-media/blocktower-3/BT3%20Tin.svg"
+    },
+    "assetMaturity": "5 years",
+    "attributes": {
+      "Issuer": "BlockTower Series 3",
+      "Links": {
+        "Executive Summary": "https://storage.googleapis.com/tinlake/docs/summaries/BT3.pdf",
+        "Discussion on Discourse": "https://gov.centrifuge.io/tag/blocktower",
+        "Website": "https://www.blocktower.com/"
+      }
+    },
+    "asset": "Structured Credit",
+    "currencySymbol": "DAI",
+    "maker": {
+      "ilk": "RWA012-A",
+      "minNonMakerDropShare": 0
+    },
+    "juniorInvestors": [
+      {
+        "name": "BlockTower Credit Partners, LP",
+        "address": "0x1bd5d6e5d95393a3175C56683B2cB9ddB3188fC1"
+      }
+    ],
+    "issuerEmail": "credit@blocktower.com",
+    "isUpcoming": true
+  }
+}

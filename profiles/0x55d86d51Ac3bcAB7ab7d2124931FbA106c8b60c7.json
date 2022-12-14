@@ -1,0 +1,75 @@
+{
+  "agreements": [
+    {
+      "name": "DROP Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "4798a01e-e78c-4196-a2bd-d12c13aadec7",
+      "tranche": "senior",
+      "country": "non-us",
+      "target": "individual"
+    },
+    {
+      "name": "DROP Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "9e049115-a9fc-432f-ae8e-bc25a42cf043",
+      "tranche": "senior",
+      "country": "us",
+      "target": "individual"
+    },
+    {
+      "name": "DROP Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "20e56783-8e35-4b13-9e7d-082dc50e383e",
+      "tranche": "senior",
+      "country": "non-us",
+      "target": "entity"
+    },
+    {
+      "name": "DROP Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "c2fdec67-3faa-4ee5-ae5c-110a42a05674",
+      "tranche": "senior",
+      "country": "us",
+      "target": "entity"
+    },
+    {
+      "name": "TIN Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "2ceccaaa-a361-4e5d-a1d2-16cd23fe3b99",
+      "tranche": "junior",
+      "country": "non-us",
+      "target": "individual"
+    },
+    {
+      "name": "TIN Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "c750fbc2-0a4a-4685-a500-1a4000aa4890",
+      "tranche": "junior",
+      "country": "us",
+      "target": "individual"
+    },
+    {
+      "name": "TIN Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "a86a53a8-3f0e-4ae6-b20b-7912f8fa83fa",
+      "tranche": "junior",
+      "country": "non-us",
+      "target": "entity"
+    },
+    {
+      "name": "TIN Subscription Agreement",
+      "provider": "docusign",
+      "providerTemplateId": "d8774f4f-b149-494b-b696-2dc6448f289b",
+      "tranche": "junior",
+      "country": "us",
+      "target": "entity"
+    }
+  ],
+  "issuer": {
+    "name": "BlockTower Series 4",
+    "email": "credit@blocktower.com",
+    "restrictedCountryCodes": [],
+    "minInvestmentCurrency": "5000000000000000000000",
+    "nonSolicitationNotice": "all"
+  }
+}
