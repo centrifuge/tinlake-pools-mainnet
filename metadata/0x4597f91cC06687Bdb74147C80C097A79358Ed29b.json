@@ -68,6 +68,6 @@
       }
     ],
     "issuerEmail": "credit@blocktower.com",
-    "isUpcoming": true
+    "isUpcoming": false
   }
 }
