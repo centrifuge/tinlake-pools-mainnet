@@ -42,7 +42,11 @@
       "Issuer": "1754 Factory Series 3",
       "Links": {
         "Executive Summary": "https://storage.googleapis.com/tinlake/docs/summaries/BR3.pdf",
-        "Website": "https://www.1754.finance/"
+        "Website": "https://www.1754.finance/",
+        "Agreements": {
+          "0x560Ac248ce28972083B718778EEb0dbC2DE55740-0": "https://centrifuge.mypinata.cloud/ipfs/QmRUbYdau89KF6QZ8LPXnVdqa6bzRPXTEBJ9YtGFk7nfKb",
+          "0x560Ac248ce28972083B718778EEb0dbC2DE55740-1": "https://centrifuge.mypinata.cloud/ipfs/QmSGQgWuvcaRnpaFWkwVge54bS12NfJRmk622LcmkU7Lbv"
+        }
       }
     },
     "asset": "Emerging Market Consumer Loans",
@@ -58,6 +62,7 @@
         "address": "0xcf1Ba0985f328b894cA55697C0fC2a39058a5B8A"
       }
     ],
-    "issuerEmail": "investors@1754.finance"
+    "issuerEmail": "investors@1754.finance",
+    "repName": "Fabien Dureuil"
   }
 }

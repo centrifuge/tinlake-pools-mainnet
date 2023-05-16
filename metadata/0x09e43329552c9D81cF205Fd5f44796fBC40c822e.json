@@ -51,7 +51,11 @@
       "Links": {
         "Executive Summary": "https://storage.googleapis.com/tinlake/docs/summaries/REIF1.pdf",
         "Discussion on Discourse": "https://gov.centrifuge.io/t/issuer-reif-commercial-real-estate-assets/2873",
-        "Website": "https://www.reif.finance/"
+        "Website": "https://www.reif.finance/",
+        "Agreements": {
+          "0x09e43329552c9D81cF205Fd5f44796fBC40c822e-0": "https://centrifuge.mypinata.cloud/ipfs/QmdFe5u4wfL4rAxhkauNaTivCr8x14Wa3eGR8Y69tRy77b",
+          "0x09e43329552c9D81cF205Fd5f44796fBC40c822e-1": "https://centrifuge.mypinata.cloud/ipfs/QmX6mUEztn7RL71eXFjcPF52yepvFZKYYxoGSCfJGVBxJZ"
+        }
       }
     },
     "juniorInvestors": [
@@ -61,6 +65,7 @@
       }
     ],
     "issuerEmail": "hello@reif.finance",
-    "isUpcoming": false
+    "isUpcoming": false,
+    "repName": "Ben Ames"
   }
 }

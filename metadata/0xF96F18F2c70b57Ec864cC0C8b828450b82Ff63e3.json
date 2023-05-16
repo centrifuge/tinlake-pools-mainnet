@@ -51,7 +51,11 @@
       "Links": {
         "Executive Summary": "https://storage.googleapis.com/tinlake/docs/summaries/ALT1.pdf",
         "Discussion on Discourse": "https://gov.centrifuge.io/t/issuer-alt-1-0-spv/3506",
-        "Website": "https://www.alternative.co"
+        "Website": "https://www.alternative.co",
+        "Agreements": {
+          "0xF96F18F2c70b57Ec864cC0C8b828450b82Ff63e3-0": "https://centrifuge.mypinata.cloud/ipfs/QmUM6DNzbxuUQPnj3so2GsSG3wscFyupo1Lng3PSS9bsZN",
+          "0xF96F18F2c70b57Ec864cC0C8b828450b82Ff63e3-1": "https://centrifuge.mypinata.cloud/ipfs/Qmb6PKH6kZWAGmYQVYod3s9AZ4c9yypoabunpromQ4RAab"
+        }
       }
     },
     "juniorInvestors": [
@@ -61,6 +65,7 @@
       }
     ],
     "issuerEmail": "baxter@alternative.co",
-    "isUpcoming": false
+    "isUpcoming": false,
+    "repName": "Baxter Lanius"
   }
 }

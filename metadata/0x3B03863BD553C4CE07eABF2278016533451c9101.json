@@ -50,7 +50,11 @@
       "Links": {
         "Executive Summary": "https://storage.googleapis.com/tinlake/docs/summaries/CGFF1.pdf",
         "Discussion on Discourse": "https://gov.centrifuge.io/t/issuer-cauris-global/2746",
-        "Website": "https://www.caurisfinance.com/"
+        "Website": "https://www.caurisfinance.com/",
+        "Agreements": {
+          "0x3B03863BD553C4CE07eABF2278016533451c9101-0": "https://centrifuge.mypinata.cloud/ipfs/QmQsQdydzTbeDkwfaE8enReTv6zmGcz4pDwuq9uxNmd34F",
+          "0x3B03863BD553C4CE07eABF2278016533451c9101-1": "https://centrifuge.mypinata.cloud/ipfs/QmNTjtp8kiQCkgRmnPNEJDzBQMFRbEEDrhfAW79SyRjXyp"
+        }
       }
     },
     "juniorInvestors": [
@@ -60,6 +64,7 @@
       }
     ],
     "issuerEmail": "investor@caurisfinance.com",
-    "isUpcoming": false
+    "isUpcoming": false,
+    "repName": "Azer Songnaba"
   }
 }

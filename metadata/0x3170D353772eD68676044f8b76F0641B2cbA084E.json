@@ -49,7 +49,11 @@
       "Issuer": "Fortunafi Asset Management LLC (Series 2)",
       "Links": {
         "Discussion on Discourse": "https://gov.centrifuge.io/t/issuer-fortunafi/394",
-        "Website": "https://www.fortunafi.com/"
+        "Website": "https://www.fortunafi.com/",
+        "Agreements": {
+          "0x3170D353772eD68676044f8b76F0641B2cbA084E-0": "https://centrifuge.mypinata.cloud/ipfs/QmXr4z1H3UhHLgCyttAeEnBmiiEZMSGBbe49YUGWqvBdxt",
+          "0x3170D353772eD68676044f8b76F0641B2cbA084E-1": "https://centrifuge.mypinata.cloud/ipfs/QmTUyyYuscUVKr9F9dgWE5g4HopAisW3zCqRvcR2ne1HSe"
+        }
       }
     },
     "asset": "Institutional Loans",
@@ -60,7 +64,8 @@
         "address": "0xDD4c1dDFD646aD6c71409BAE38a372025F170397"
       }
     ],
-    "issuerEmail": "FAM2@fortunafi.com",
-    "isLaunching": true
+    "issuerEmail": "ir@fortunafi.com",
+    "isLaunching": true,
+    "repName": "Nicholas Garcia"
   }
 }

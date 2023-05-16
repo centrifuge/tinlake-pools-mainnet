@@ -51,7 +51,11 @@
       "Links": {
         "Executive Summary": "https://storage.googleapis.com/tinlake/docs/summaries/CF4.pdf",
         "Forum Discussion": "https://gov.centrifuge.io/t/community-introduction-consolfreight/333",
-        "Website": "https://www.consolfreight.io/"
+        "Website": "https://www.consolfreight.io/",
+        "Agreements": {
+          "0xdB3bC9fB1893222d266762e9fF857EB74D75c7D6-0": "https://centrifuge.mypinata.cloud/ipfs/QmR6vDVCi7qVXTr2vUZTdKqSvNgwqLV1m3yFfiSYMgajTh",
+          "0xdB3bC9fB1893222d266762e9fF857EB74D75c7D6-1": "https://centrifuge.mypinata.cloud/ipfs/QmZi36RsnSyS23CNCbyoQLSxwdM225ReoLBCZajJKJE7WW"
+        }
       }
     },
     "maker": {
@@ -64,6 +68,7 @@
         "address": "0xc410E6AcB488cc055AFc9c81eE193BED12Cd0615"
       }
     ],
-    "issuerEmail": "ernesto@consolfreight.com"
+    "issuerEmail": "ernesto@consolfreight.com",
+    "repName": "Ernesto Vila"
   }
 }
