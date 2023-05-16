@@ -52,7 +52,11 @@
         "Executive Summary": "https://storage.googleapis.com/tinlake/docs/summaries/HTC2.pdf",
         "Forum Discussion": "https://gov.centrifuge.io/t/community-introduction-harbor-trade-credit/141",
         "Website": "https://harbortrade.com/",
-        "Client Profiles": "https://cdn.harbortrade.com/static/assets/investors/resources/client-profiles.pdf"
+        "Client Profiles": "https://cdn.harbortrade.com/static/assets/investors/resources/client-profiles.pdf",
+        "Agreements": {
+          "0x4cA805cE8EcE2E63FfC1F9f8F2731D3F48DF89Df-0": "https://centrifuge.mypinata.cloud/ipfs/QmNSWaXFRcbAwLhsXh8Q1vBz79WLYrqU88Xgib7tUsKxLx",
+          "0x4cA805cE8EcE2E63FfC1F9f8F2731D3F48DF89Df-1": "https://centrifuge.mypinata.cloud/ipfs/QmSckeBR7TAEsR9zmicCoGnbQdzUCFyKZAfmrYvCQVc1tj"
+        }
       }
     },
     "maker": {
@@ -65,6 +69,7 @@
         "address": "0x24CfBa1983FAe1dBab728caeF8ED143FCb41a670"
       }
     ],
-    "issuerEmail": "investors@harbortradecredit.com"
+    "issuerEmail": "investors@harbortradecredit.com",
+    "repName": "Bryan Maloney"
   }
 }

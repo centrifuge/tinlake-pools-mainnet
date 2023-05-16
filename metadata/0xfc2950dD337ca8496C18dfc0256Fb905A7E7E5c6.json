@@ -43,7 +43,11 @@
       "Links": {
         "Executive Summary": "https://storage.googleapis.com/tinlake/docs/summaries/DF1.pdf",
         "Forum Discussion": "https://gov.centrifuge.io/t/community-introduction-databased-finance/1818",
-        "Website": "https://www.databased.finance/"
+        "Website": "https://www.databased.finance/",
+        "Agreements": {
+          "0xfc2950dD337ca8496C18dfc0256Fb905A7E7E5c6-0": "https://centrifuge.mypinata.cloud/ipfs/QmUCuCUxLx8tEPVYU5nuHi6qpwV5RNBZm31GyHcJpbeyZa",
+          "0xfc2950dD337ca8496C18dfc0256Fb905A7E7E5c6-1": "https://centrifuge.mypinata.cloud/ipfs/Qmev226aRMsxwYV1mJfdqQvJVY8vSbJ5GBBBGmrYTVh19D"
+        }
       }
     },
     "juniorInvestors": [
@@ -52,6 +56,7 @@
         "address": "0x50D694FCc135390a39F8401f7149e70D0DC95B38"
       }
     ],
-    "issuerEmail": "legal@databased.finance"
+    "issuerEmail": "legal@databased.finance",
+    "repName": "Robert Torti"
   }
 }

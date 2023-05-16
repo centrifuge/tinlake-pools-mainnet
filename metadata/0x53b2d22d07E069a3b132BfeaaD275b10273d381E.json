@@ -51,7 +51,11 @@
       "Links": {
         "Executive Summary": "https://storage.googleapis.com/tinlake/docs/summaries/NS2.pdf",
         "Forum Discussion": "https://gov.centrifuge.io/t/community-introduction-new-silver/401",
-        "Website": "https://newsilver.com/"
+        "Website": "https://newsilver.com/",
+        "Agreements": {
+          "0x53b2d22d07E069a3b132BfeaaD275b10273d381E-0": "https://centrifuge.mypinata.cloud/ipfs/QmfMfS5ASnqS98RpVMHW84KTzWzi9jMiZ3Hmpas9HZdYJV",
+          "0x53b2d22d07E069a3b132BfeaaD275b10273d381E-1": "https://centrifuge.mypinata.cloud/ipfs/QmZjhwKNq66vHLnPcGwZADux4bX6NhKzAvkqm1yvSRgazs"
+        }
       }
     },
     "maker": {
@@ -64,6 +68,7 @@
         "address": "0x5FA143D3790EECd8743362A305C45200BBdE4e7D"
       }
     ],
-    "issuerEmail": "investors@newsilver.com"
+    "issuerEmail": "investors@newsilver.com",
+    "repName": "Kirill Bensonoff"
   }
 }

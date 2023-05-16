@@ -49,7 +49,11 @@
       "Links": {
         "Executive Summary": "https://storage.googleapis.com/tinlake/docs/summaries/FNO1.pdf",
         "Discussion on Discourse": "https://gov.centrifuge.io/tags/c/pools/active-pools/53/flowcarbon",
-        "Website": "https://www.flowcarbon.com/"
+        "Website": "https://www.flowcarbon.com/",
+        "Agreements": {
+          "0xd8486C565098360A24f858088a6D29a380dDF7ec-0": "https://centrifuge.mypinata.cloud/ipfs/QmakfWWALE5v1mP63v2dQmSDvA932YtEAo4RHgH4ZDXszt",
+          "0xd8486C565098360A24f858088a6D29a380dDF7ec-1": "https://centrifuge.mypinata.cloud/ipfs/QmUDGMGp6MiBfp17bqANBnJb9imgmv9g3QLj38Le1EPLw9"
+        }
       }
     },
     "asset": "Voluntary Carbon Offsets",
@@ -60,7 +64,8 @@
         "address": "0xd653003e8E542cdd7bD91F4dbC56B956Bb622F41"
       }
     ],
-    "issuerEmail": "fno1_documentation@flowcarbon.com",
-    "isUpcoming": false
+    "issuerEmail": "mike@flowcarbon.com",
+    "isUpcoming": false,
+    "repName": "Dana Gibber"
   }
 }

@@ -51,7 +51,11 @@
       "Links": {
         "Executive Summary": "https://docsend.com/view/s/gressukfmvcp6uip",
         "Forum Discussion": "https://gov.centrifuge.io/t/community-introduction-fortunafi/394",
-        "Website": "https://www.fortunafi.com/"
+        "Website": "https://www.fortunafi.com/",
+        "Agreements": {
+          "0x4B6CA198d257D755A5275648D471FE09931b764A-0": "https://centrifuge.mypinata.cloud/ipfs/Qme4ZqRnv62oc5CzFj9upt29dxW27P3kg8hhoSC4TtryYZ",
+          "0x4B6CA198d257D755A5275648D471FE09931b764A-1": "https://centrifuge.mypinata.cloud/ipfs/QmR4w7FKVPCYRBp2pq7uaL5oyRYFsRky6QC1wbg8NjAbz5"
+        }
       }
     },
     "maker": {
@@ -68,6 +72,7 @@
         "address": "0x352A67B1a13d49911Cd6267a83A5638D47aFccd5"
       }
     ],
-    "issuerEmail": "ir@fortunafi.com"
+    "issuerEmail": "ir@fortunafi.com",
+    "repName": "Nicholas Garcia"
   }
 }
