@@ -66,6 +66,10 @@
     ],
     "issuerEmail": "ir@fortunafi.com",
     "isLaunching": true,
-    "repName": "Nicholas Garcia"
+    "repName": "Nicholas Garcia",
+    "newInvestmentsStatus": {
+      "senior": "open",
+      "junior": "request"
+    }
   }
 }

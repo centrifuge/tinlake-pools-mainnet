@@ -68,6 +68,10 @@
       }
     ],
     "issuerEmail": "credit@blocktower.com",
-    "isUpcoming": false
+    "isUpcoming": false,
+    "newInvestmentsStatus": {
+      "senior": "closed",
+      "junior": "closed"
+    }
   }
 }

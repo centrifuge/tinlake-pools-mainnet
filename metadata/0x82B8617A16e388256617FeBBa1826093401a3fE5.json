@@ -52,6 +52,10 @@
         "name": "Paperchain",
         "address": "0x47a503321E7b29Cc568093156f9676310f8a2583"
       }
-    ]
+    ],
+    "newInvestmentsStatus": {
+      "senior": "closed",
+      "junior": "closed"
+    }
   }
 }

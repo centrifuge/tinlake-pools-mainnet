@@ -60,6 +60,10 @@
         "address": "0x2470c0079477099e901384E4f708aE6f7930e1eE"
       }
     ],
-    "issuerEmail": "investors@end-bridge.com"
+    "issuerEmail": "investors@end-bridge.com",
+    "newInvestmentsStatus": {
+      "senior": "closed",
+      "junior": "closed"
+    }
   }
 }

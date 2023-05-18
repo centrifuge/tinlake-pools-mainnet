@@ -66,6 +66,10 @@
     ],
     "issuerEmail": "hello@reif.finance",
     "isUpcoming": false,
-    "repName": "Ben Ames"
+    "repName": "Ben Ames",
+    "newInvestmentsStatus": {
+      "senior": "open",
+      "junior": "request"
+    }
   }
 }

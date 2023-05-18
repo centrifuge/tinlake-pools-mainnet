@@ -69,6 +69,10 @@
       }
     ],
     "issuerEmail": "ernesto@consolfreight.com",
-    "repName": "Ernesto Vila"
+    "repName": "Ernesto Vila",
+    "newInvestmentsStatus": {
+      "senior": "open",
+      "junior": "request"
+    }
   }
 }

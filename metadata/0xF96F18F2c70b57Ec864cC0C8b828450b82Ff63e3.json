@@ -66,6 +66,10 @@
     ],
     "issuerEmail": "baxter@alternative.co",
     "isUpcoming": false,
-    "repName": "Baxter Lanius"
+    "repName": "Baxter Lanius",
+    "newInvestmentsStatus": {
+      "senior": "open",
+      "junior": "request"
+    }
   }
 }

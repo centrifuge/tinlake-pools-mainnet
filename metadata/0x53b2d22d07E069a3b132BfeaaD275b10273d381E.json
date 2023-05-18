@@ -69,6 +69,10 @@
       }
     ],
     "issuerEmail": "investors@newsilver.com",
-    "repName": "Kirill Bensonoff"
+    "repName": "Kirill Bensonoff",
+    "newInvestmentsStatus": {
+      "senior": "open",
+      "junior": "request"
+    }
   }
 }
