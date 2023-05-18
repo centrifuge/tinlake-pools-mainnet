@@ -66,15 +66,9 @@
     "issuerEmail": "investor@caurisfinance.com",
     "isUpcoming": false,
     "repName": "Azer Songnaba",
-    "availability": {
-      "canInvest": {
-        "senior": "open",
-        "junior": "request"
-      },
-      "canOnboard": {
-        "senior": true,
-        "junior": false
-      }
+    "newInvestmentsStatus": {
+      "senior": "open",
+      "junior": "request"
     }
   }
 }

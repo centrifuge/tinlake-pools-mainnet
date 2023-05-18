@@ -69,15 +69,9 @@
     ],
     "issuerEmail": "credit@blocktower.com",
     "isUpcoming": false,
-    "availability": {
-      "canInvest": {
-        "senior": "closed",
-        "junior": "closed"
-      },
-      "canOnboard": {
-        "senior": false,
-        "junior": false
-      }
+    "newInvestmentsStatus": {
+      "senior": "closed",
+      "junior": "closed"
     }
   }
 }

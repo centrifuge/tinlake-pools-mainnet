@@ -70,15 +70,9 @@
     ],
     "issuerEmail": "ernesto@consolfreight.com",
     "repName": "Ernesto Vila",
-    "availability": {
-      "canInvest": {
-        "senior": "open",
-        "junior": "request"
-      },
-      "canOnboard": {
-        "senior": true,
-        "junior": false
-      }
+    "newInvestmentsStatus": {
+      "senior": "open",
+      "junior": "request"
     }
   }
 }

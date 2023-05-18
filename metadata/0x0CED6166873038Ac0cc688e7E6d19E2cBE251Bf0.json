@@ -57,15 +57,9 @@
       }
     ],
     "issuerEmail": "investors@1754.finance",
-    "availability": {
-      "canInvest": {
-        "senior": "closed",
-        "junior": "closed"
-      },
-      "canOnboard": {
-        "senior": false,
-        "junior": false
-      }
+    "newInvestmentsStatus": {
+      "senior": "closed",
+      "junior": "closed"
     }
   }
 }
