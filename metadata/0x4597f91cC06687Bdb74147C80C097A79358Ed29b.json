@@ -68,6 +68,16 @@
       }
     ],
     "issuerEmail": "credit@blocktower.com",
-    "isUpcoming": false
+    "isUpcoming": false,
+    "availability": {
+      "canInvest": {
+        "senior": "closed",
+        "junior": "closed"
+      },
+      "canOnboard": {
+        "senior": false,
+        "junior": false
+      }
+    }
   }
 }

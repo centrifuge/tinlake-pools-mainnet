@@ -63,6 +63,16 @@
       }
     ],
     "issuerEmail": "investors@1754.finance",
-    "repName": "Fabien Dureuil"
+    "repName": "Fabien Dureuil",
+    "availability": {
+      "canInvest": {
+        "senior": "open",
+        "junior": "request"
+      },
+      "canOnboard": {
+        "senior": true,
+        "junior": false
+      }
+    }
   }
 }

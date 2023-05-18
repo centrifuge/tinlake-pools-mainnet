@@ -56,6 +56,16 @@
         "address": "0xcf1Ba0985f328b894cA55697C0fC2a39058a5B8A"
       }
     ],
-    "issuerEmail": "investors@1754.finance"
+    "issuerEmail": "investors@1754.finance",
+    "availability": {
+      "canInvest": {
+        "senior": "closed",
+        "junior": "closed"
+      },
+      "canOnboard": {
+        "senior": false,
+        "junior": false
+      }
+    }
   }
 }

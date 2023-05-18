@@ -66,6 +66,16 @@
     ],
     "issuerEmail": "mike@flowcarbon.com",
     "isUpcoming": false,
-    "repName": "Dana Gibber"
+    "repName": "Dana Gibber",
+    "availability": {
+      "canInvest": {
+        "senior": "closed",
+        "junior": "closed"
+      },
+      "canOnboard": {
+        "senior": false,
+        "junior": false
+      }
+    }
   }
 }
