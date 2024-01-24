@@ -73,6 +73,7 @@
     "newInvestmentsStatus": {
       "senior": "open",
       "junior": "request"
-    }
+    },
+    "isArchived": true
   }
 }
