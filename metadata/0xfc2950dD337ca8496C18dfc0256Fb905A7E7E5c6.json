@@ -59,8 +59,8 @@
     "issuerEmail": "legal@databased.finance",
     "repName": "Robert Torti",
     "newInvestmentsStatus": {
-      "senior": "open",
-      "junior": "request"
+      "senior": "closed",
+      "junior": "closed"
     },
     "isArchived": true
   }

@@ -68,8 +68,8 @@
     "isUpcoming": false,
     "repName": "Ben Ames",
     "newInvestmentsStatus": {
-      "senior": "open",
-      "junior": "request"
+      "senior": "closed",
+      "junior": "closed"
     },
     "isArchived": true
   }
