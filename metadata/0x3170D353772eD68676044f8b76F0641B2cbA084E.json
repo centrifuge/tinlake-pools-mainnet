@@ -68,8 +68,9 @@
     "isLaunching": true,
     "repName": "Nicholas Garcia",
     "newInvestmentsStatus": {
-      "senior": "open",
-      "junior": "request"
-    }
+      "senior": "closed",
+      "junior": "closed"
+    },
+    "isArchived": true
   }
 }

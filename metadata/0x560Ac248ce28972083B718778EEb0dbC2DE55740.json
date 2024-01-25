@@ -66,8 +66,9 @@
     "issuerEmail": "investors@1754.finance",
     "repName": "Fabien Dureuil",
     "newInvestmentsStatus": {
-      "senior": "open",
-      "junior": "request"
-    }
+      "senior": "closed",
+      "junior": "closed"
+    },
+    "isArchived": true
   }
 }

@@ -72,8 +72,9 @@
     "issuerEmail": "investors@harbortradecredit.com",
     "repName": "Bryan Maloney",
     "newInvestmentsStatus": {
-      "senior": "open",
-      "junior": "request"
-    }
+      "senior": "closed",
+      "junior": "closed"
+    },
+    "isArchived": true
   }
 }
