@@ -73,8 +73,9 @@
     "isUpcoming": false,
     "repName": "Baxter Lanius",
     "newInvestmentsStatus": {
-      "senior": "open",
-      "junior": "request"
-    }
+      "senior": "closed",
+      "junior": "closed"
+    },
+    "isArchived": true
   }
 }
