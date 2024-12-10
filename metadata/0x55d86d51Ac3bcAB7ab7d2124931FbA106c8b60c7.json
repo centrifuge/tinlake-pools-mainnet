@@ -72,6 +72,7 @@
     "newInvestmentsStatus": {
       "senior": "closed",
       "junior": "closed"
-    }
+    },
+    "isArchived": true
   }
 }
